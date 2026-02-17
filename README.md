@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="ISRO Mission Navigator Logo" width="200" height="200" align="centre"/>
+<img src="logo.png" alt="ISRO Mission Navigator Logo" width="2000" height="2000" align="centre"/>
 
 # **Infosys Virtual Internship 6.0**
 
