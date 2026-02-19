@@ -1,0 +1,78 @@
+satellite_name,launch_date,launch_vehicle,orbit,application,year,month,rocket_family,mission,orbit_cat,recent_launch
+NISAR(NASA-ISRO),2025-07-30,GSLV-F16/NISAR Mission,SSO (Sun Synchronous Orbit),Earth Observation(Radar),2025,Jul,GSLV-F16/NISAR,NISAR,SSO,1
+EOS-09,2025-05-18,PSLV-C61/EOS-09 Mission,SSO (Sun Synchronous Orbit),Earth Observation,2025,May,PSLV-C61/EOS-09,EOS-09,SSO,1
+NVS-02(NavIC Series),2025-01-29,GSLV-F15/NVS-02 Mission,GTO (Geosynchronous Transfer Orbit),Navigation,2025,Jan,GSLV-F15/NVS-02,NVS-02,GTO,1
+"SPADEX, POEM-4",2025-12-30,"PSLV-C60,SPADEX,POEM-4 Mission",LEO (Low Earth Orbit),In-Orbit Docking Experiment,2025,Dec,"PSLV-C60,SPADEX,POEM-4","PSLV-C60,SPADEX,POEM-4",LEO,1
+Proba-3 (ESA),2024-12-05,PSLV-C59/Proba-3 Mission,HEO (High Elliptical Orbit),Formation Flying(Technology Demonstration),2024,Dec,PSLV-C59/Proba-3,Proba-3,HEO,1
+Aditya-L1,2023-09-02,PSLV-C57/Aditya-L1 Mission,Lunar,Planetary Observation,2023,Sep,PSLV-C57/Aditya-L1,Aditya-L1,Lunar,1
+Chandrayaan-3,2023-07-14,LVM3 M4 / Chandrayaan-3 Mission,Lunar,Planetary Observation,2023,Jul,LVM3, Chandrayaan-3,Lunar,1
+NVS-01,2023-05-29,GSLV-F12/NVS-01 Mission,Unknown,Navigation,2023,May,GSLV-F12/NVS-01,NVS-01,Unknown,1
+EOS-07,2023-02-10,SSLV-D2/EOS-07 Mission,Unknown,Earth Observation,2023,Feb,SSLV-D2/EOS-07,EOS-07,Unknown,1
+Thybolt,2022-11-26,PSLV-C54/EOS-06 Mission,Unknown,Earth Observation,2022,Nov,PSLV-C54/EOS-06,EOS-06,Unknown,1
+Anand,2022-11-26,PSLV-C54/EOS-06 Mission,Unknown,Earth Observation,2022,Nov,PSLV-C54/EOS-06,EOS-06,Unknown,1
+INS-2B,2022-11-26,PSLV-C54/EOS-06 Mission,Unknown,Earth Observation,2022,Nov,PSLV-C54/EOS-06,EOS-06,Unknown,1
+EOS-06,2022-11-26,PSLV-C54/EOS-06 Mission,Unknown,Earth Observation,2022,Nov,PSLV-C54/EOS-06,EOS-06,Unknown,1
+EOS-02,2022-08-07,SSLV-D1/EOS-02 Mission,Unknown,Earth Observation,2022,Aug,SSLV-D1/EOS-02,EOS-02,Unknown,1
+GSAT-24,2022-06-23,Ariane-V(VS257),GSO (Geosynchronous Orbit),Communication,2022,Jun,Ariane-V(VS257),Ariane-V(VS257),GSO,1
+INS-2TD,2022-02-14,PSLV-C52/EOS-04 Mission,Unknown,Experimental,2022,Feb,PSLV-C52/EOS-04,EOS-04,Unknown,1
+EOS-04,2022-02-14,PSLV-C52/EOS-04 Mission,Unknown,Earth Observation,2022,Feb,PSLV-C52/EOS-04,EOS-04,Unknown,1
+EOS-03,2021-08-12,GSLV-F10 / EOS-03 Mission,GTO (Geosynchronous Transfer Orbit),Earth Observation,2021,Aug,GSLV-F10, EOS-03,GTO,1
+CMS-01,2020-12-17,PSLV-C50/CMS-01,GSO (Geosynchronous Orbit),Communication,2020,Dec,PSLV-C50/CMS-01,CMS-01,GSO,1
+EOS-01,2020-11-07,PSLV-C49/EOS-01,LEO (Low Earth Orbit),"Disaster Management System, Earth Observation",2020,Nov,PSLV-C49/EOS-01,EOS-01,LEO,1
+GSAT-30,2020-01-17,Ariane-5 VA-251,GSO (Geosynchronous Orbit),Communication,2020,Jan,Ariane-5,Ariane-5 VA-251,GSO,1
+RISAT-2BR1,2019-12-11,PSLV-C48/RISAT-2BR1,LEO (Low Earth Orbit),"Disaster Management System, Earth Observation",2019,Dec,PSLV-C48/RISAT-2BR1,RISAT-2BR1,LEO,1
+Cartosat-3,2019-11-27,PSLV-C47 / Cartosat-3 Mission,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2019,Nov,PSLV-C47, Cartosat-3,SSPO,1
+Chandrayaan2,2019-07-22,GSLV-Mk III - M1 / Chandrayaan-2 Mission,Lunar,Planetary Observation,2019,Jul,GSLV-Mk, Chandrayaan-2,Lunar,1
+RISAT-2B,2019-05-22,PSLV-C46 Mission,LEO (Low Earth Orbit),"Disaster Management System, Earth Observation",2019,May,PSLV-C46,PSLV-C46,LEO,1
+EMISAT,2019-04-01,PSLV-C45/EMISAT MISSION,SSPO (Sun Synchronous Polar Orbit),Unknown,2019,Apr,PSLV-C45/EMISAT,EMISAT MISSION,SSPO,1
+GSAT-31,2019-02-06,Ariane-5 VA-247,GTO (Geosynchronous Transfer Orbit),Communication,2019,Feb,Ariane-5,Ariane-5 VA-247,GTO,1
+Microsat-R,2019-01-24,PSLV-C44,SSPO (Sun Synchronous Polar Orbit),Unknown,2019,Jan,PSLV-C44,PSLV-C44,SSPO,1
+GSAT-7A,2018-12-19,GSLV-F11 / GSAT-7A Mission,Unknown,Communication,2018,Dec,GSLV-F11, GSAT-7A,Unknown,1
+GSAT-11 Mission,2018-12-05,Ariane-5 VA-246,GTO (Geosynchronous Transfer Orbit),Communication,2018,Dec,Ariane-5,Ariane-5 VA-246,GTO,1
+HysIS,2018-11-29,PSLV-C43 / HysIS Mission,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2018,Nov,PSLV-C43, HysIS,SSPO,1
+GSAT-29,2018-11-14,GSLV Mk III-D2 / GSAT-29 Mission,GTO (Geosynchronous Transfer Orbit),Communication,2018,Nov,GSLV, GSAT-29,GTO,1
+IRNSS-1I,2018-04-12,PSLV-C41/IRNSS-1I,GSO (Geosynchronous Orbit),Navigation,2018,Apr,PSLV-C41/IRNSS-1I,IRNSS-1I,GSO,1
+GSAT-6A,2018-03-29,GSLV-F08/GSAT-6A Mission,GSO (Geosynchronous Orbit),Communication,2018,Mar,GSLV-F08/GSAT-6A,GSAT-6A,GSO,1
+INS-1C,2018-01-12,PSLV-C40/Cartosat-2 Series Satellite Mission,SSPO (Sun Synchronous Polar Orbit),Experimental,2018,Jan,PSLV-C40/Cartosat-2,Cartosat-2 Series Satellite,SSPO,1
+Microsat,2018-01-12,PSLV-C40/Cartosat-2 Series Satellite Mission,SSPO (Sun Synchronous Polar Orbit),Experimental,2018,Jan,PSLV-C40/Cartosat-2,Cartosat-2 Series Satellite,SSPO,1
+Cartosat-2 Series Satellite,2018-01-12,PSLV-C40/Cartosat-2 Series Satellite Mission,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2018,Jan,PSLV-C40/Cartosat-2,Cartosat-2 Series Satellite,SSPO,1
+IRNSS-1H,2017-08-31,PSLV-C39/IRNSS-1H Mission,Unknown,Navigation,2017,Aug,PSLV-C39/IRNSS-1H,IRNSS-1H,Unknown,1
+GSAT-1 7,2017-06-29,Ariane-5 VA-238,GTO (Geosynchronous Transfer Orbit),Communication,2017,Jun,Ariane-5,Ariane-5 VA-238,GTO,1
+Cartosat-2 Series Satellite,2017-06-23,PSLV-C38 / Cartosat-2 Series Satellite,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2017,Jun,PSLV-C38, Cartosat-2 Series Satellite,SSPO,1
+GSAT-19,2017-06-05,GSLV Mk III-D1/GSAT-19 Mission,GSO (Geosynchronous Orbit),Communication,2017,Jun,GSLV,GSAT-19,GSO,1
+GSAT-9,2017-05-05,GSLV-F09 / GSAT-9,GSO (Geosynchronous Orbit),Communication,2017,May,GSLV-F09, GSAT-9,GSO,1
+Cartosat -2 Series Satellite,2017-02-15,PSLV-C37 / Cartosat -2 Series Satellite,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2017,Feb,PSLV-C37, Cartosat -2 Series Satellite,SSPO,1
+INS-1A,2017-02-15,PSLV-C37 / Cartosat -2 Series Satellite,SSPO (Sun Synchronous Polar Orbit),Experimental,2017,Feb,PSLV-C37, Cartosat -2 Series Satellite,SSPO,1
+INS-1B,2017-02-15,PSLV-C37 / Cartosat -2 Series Satellite,SSPO (Sun Synchronous Polar Orbit),Experimental,2017,Feb,PSLV-C37, Cartosat -2 Series Satellite,SSPO,1
+RESOURCESAT-2A,2016-12-07,PSLV-C36 / RESOURCESAT-2A,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2016,Dec,PSLV-C36, RESOURCESAT-2A,SSPO,1
+GSAT-18,2016-10-06,Ariane-5 VA-231,GSO (Geosynchronous Orbit),Communication,2016,Oct,Ariane-5,Ariane-5 VA-231,GSO,1
+SCATSAT-1,2016-09-26,PSLV-C35 / SCATSAT-1,SSPO (Sun Synchronous Polar Orbit),Climate & Environment,2016,Sep,PSLV-C35, SCATSAT-1,SSPO,1
+INSAT-3DR,2016-09-08,GSLV-F05 / INSAT-3DR,GSO (Geosynchronous Orbit),"Climate & Environment, Disaster Management System",2016,Sep,GSLV-F05, INSAT-3DR,GSO,1
+CARTOSAT-2 Series Satellite,2016-06-22,PSLV-C34 / CARTOSAT-2 Series Satellite,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2016,Jun,PSLV-C34, CARTOSAT-2 Series Satellite,SSPO,1
+IRNSS-1G,2016-04-28,PSLV-C33/IRNSS-1G,GEO,Navigation,2016,Apr,PSLV-C33/IRNSS-1G,IRNSS-1G,GEO,1
+IRNSS-1F,2016-03-10,PSLV-C32/IRNSS-1F,GEO,Navigation,2016,Mar,PSLV-C32/IRNSS-1F,IRNSS-1F,GEO,1
+IRNSS-1E,2016-01-20,PSLV-C31/IRNSS-1E,GSO (Geosynchronous Orbit),Navigation,2016,Jan,PSLV-C31/IRNSS-1E,IRNSS-1E,GSO,1
+GSAT-15,2015-11-11,Ariane-5 VA-227,GEO,"Communication, Navigation",2015,Nov,Ariane-5,Ariane-5 VA-227,GEO,1
+Astrosat,2015-09-28,PSLV-C30/AstroSat MISSION,Unknown,Space Science,2015,Sep,PSLV-C30/AstroSat,AstroSat MISSION,Unknown,1
+GSAT-6,2015-08-27,GSLV-D6,GTO (Geosynchronous Transfer Orbit),Communication,2015,Aug,GSLV-D6,GSLV-D6,GTO,1
+IRNSS-1D,2015-03-28,PSLV-C27/IRNSS-1D,GSO (Geosynchronous Orbit),Navigation,2015,Mar,PSLV-C27/IRNSS-1D,IRNSS-1D,GSO,1
+Crew module Atmospheric Re-entry Experiment (CARE),2014-12-18,LVM-3/CARE Mission,Unknown,Experimental,2014,Dec,LVM-3/CARE,CARE,Unknown,0
+GSAT-16,2014-12-07,Ariane-5 VA-221,GSO (Geosynchronous Orbit),Communication,2014,Dec,Ariane-5,Ariane-5 VA-221,GSO,0
+IRNSS-1C,2014-10-16,PSLV-C26/IRNSS-1C,GEO,Navigation,2014,Oct,PSLV-C26/IRNSS-1C,IRNSS-1C,GEO,0
+IRNSS-1B,2014-04-04,PSLV-C24/IRNSS-1B,GSO (Geosynchronous Orbit),Navigation,2014,Apr,PSLV-C24/IRNSS-1B,IRNSS-1B,GSO,0
+GSAT-14,2014-01-05,GSLV-D5/GSAT-14,GSO (Geosynchronous Orbit),Communication,2014,Jan,GSLV-D5/GSAT-14,GSAT-14,GSO,0
+Mars Orbiter Mission Spacecraft,2013-11-05,PSLV-C25,Martian,Planetary Observation,2013,Nov,PSLV-C25,PSLV-C25,Martian,0
+GSAT-7,2013-08-30,Ariane-5 VA-215,GSO (Geosynchronous Orbit),Communication,2013,Aug,Ariane-5,Ariane-5 VA-215,GSO,0
+INSAT-3D,2013-07-26,Ariane-5 VA-214,GSO (Geosynchronous Orbit),"Climate & Environment, Disaster Management System",2013,Jul,Ariane-5,Ariane-5 VA-214,GSO,0
+IRNSS-1A,2013-07-01,PSLV-C22/IRNSS-1A,GSO (Geosynchronous Orbit),Navigation,2013,Jul,PSLV-C22/IRNSS-1A,IRNSS-1A,GSO,0
+SARAL,2013-02-25,PSLV-C20/SARAL,SSPO (Sun Synchronous Polar Orbit),"Climate & Environment, Earth Observation",2013,Feb,PSLV-C20/SARAL,SARAL,SSPO,0
+GSAT-10,2012-09-29,Ariane-5 VA-209,GEO,"Communication, Navigation",2012,Sep,Ariane-5,Ariane-5 VA-209,GEO,0
+RISAT-1,2012-04-26,PSLV-C19/RISAT-1,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2012,Apr,PSLV-C19/RISAT-1,RISAT-1,SSPO,0
+Megha-Tropiques,2011-10-12,PSLV-C18/Megha-Tropiques,SSPO (Sun Synchronous Polar Orbit),"Climate & Environment, Earth Observation",2011,Oct,PSLV-C18/Megha-Tropiques,Megha-Tropiques,SSPO,0
+GSAT-12,2011-07-15,PSLV-C17/GSAT-12,GSO (Geosynchronous Orbit),Communication,2011,Jul,PSLV-C17/GSAT-12,GSAT-12,GSO,0
+GSAT-8,2011-05-21,Ariane-5 VA-202,GEO,"Communication, Navigation",2011,May,Ariane-5,Ariane-5 VA-202,GEO,0
+RESOURCESAT-2,2011-04-20,PSLV-C16/RESOURCESAT-2,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2011,Apr,PSLV-C16/RESOURCESAT-2,RESOURCESAT-2,SSPO,0
+YOUTHSAT,2011-04-20,PSLV-C16/RESOURCESAT-2,SSPO (Sun Synchronous Polar Orbit),Student Satellite,2011,Apr,PSLV-C16/RESOURCESAT-2,RESOURCESAT-2,SSPO,0
+GSAT-5P,2010-12-25,GSLV-F06 / GSAT-5P,GSO (Geosynchronous Orbit),Communication,2010,Dec,GSLV-F06, GSAT-5P,GSO,0
+CARTOSAT-2B,2010-07-12,PSLV-C15/CARTOSAT-2B,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2010,Jul,PSLV-C15/CARTOSAT-2B,CARTOSAT-2B,SSPO,0
+GSAT-4,2010-04-15,GSLV-D3 / GSAT-4,GSO (Geosynchronous Orbit),Communication,2010,Apr,GSLV-D3, GSAT-4,GSO,0

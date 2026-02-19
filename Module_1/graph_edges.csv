@@ -1,0 +1,388 @@
+source,relation,target
+NISAR(NASA-ISRO),launched_by,GSLV-F16/NISAR Mission
+NISAR(NASA-ISRO),in_orbit,SSO (Sun Synchronous Orbit)
+NISAR(NASA-ISRO),has_application,Earth Observation(Radar)
+EOS-09,launched_by,PSLV-C61/EOS-09 Mission
+EOS-09,in_orbit,SSO (Sun Synchronous Orbit)
+EOS-09,has_application,Earth Observation
+NVS-02(NavIC Series),launched_by,GSLV-F15/NVS-02 Mission
+NVS-02(NavIC Series),in_orbit,GTO (Geosynchronous Transfer Orbit)
+NVS-02(NavIC Series),has_application,Navigation
+"SPADEX, POEM-4",launched_by,"PSLV-C60,SPADEX,POEM-4 Mission"
+"SPADEX, POEM-4",in_orbit,LEO (Low Earth Orbit)
+"SPADEX, POEM-4",has_application,In-Orbit Docking Experiment
+Proba-3 (ESA),launched_by,PSLV-C59/Proba-3 Mission
+Proba-3 (ESA),in_orbit,HEO (High Elliptical Orbit)
+Proba-3 (ESA),has_application,Formation Flying(Technology Demonstration)
+Aditya-L1,launched_by,PSLV-C57/Aditya-L1 Mission
+Aditya-L1,in_orbit,Lunar
+Aditya-L1,has_application,Planetary Observation
+Chandrayaan-3,launched_by,LVM3 M4 / Chandrayaan-3 Mission
+Chandrayaan-3,in_orbit,Lunar
+Chandrayaan-3,has_application,Planetary Observation
+NVS-01,launched_by,GSLV-F12/NVS-01 Mission
+NVS-01,in_orbit,Unknown
+NVS-01,has_application,Navigation
+EOS-07,launched_by,SSLV-D2/EOS-07 Mission
+EOS-07,in_orbit,Unknown
+EOS-07,has_application,Earth Observation
+Thybolt,launched_by,PSLV-C54/EOS-06 Mission
+Thybolt,in_orbit,Unknown
+Thybolt,has_application,Earth Observation
+Anand,launched_by,PSLV-C54/EOS-06 Mission
+Anand,in_orbit,Unknown
+Anand,has_application,Earth Observation
+INS-2B,launched_by,PSLV-C54/EOS-06 Mission
+INS-2B,in_orbit,Unknown
+INS-2B,has_application,Earth Observation
+EOS-06,launched_by,PSLV-C54/EOS-06 Mission
+EOS-06,in_orbit,Unknown
+EOS-06,has_application,Earth Observation
+EOS-02,launched_by,SSLV-D1/EOS-02 Mission
+EOS-02,in_orbit,Unknown
+EOS-02,has_application,Earth Observation
+GSAT-24,launched_by,Ariane-V(VS257)
+GSAT-24,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-24,has_application,Communication
+INS-2TD,launched_by,PSLV-C52/EOS-04 Mission
+INS-2TD,in_orbit,Unknown
+INS-2TD,has_application,Experimental
+EOS-04,launched_by,PSLV-C52/EOS-04 Mission
+EOS-04,in_orbit,Unknown
+EOS-04,has_application,Earth Observation
+EOS-03,launched_by,GSLV-F10 / EOS-03 Mission
+EOS-03,in_orbit,GTO (Geosynchronous Transfer Orbit)
+EOS-03,has_application,Earth Observation
+CMS-01,launched_by,PSLV-C50/CMS-01
+CMS-01,in_orbit,GSO (Geosynchronous Orbit)
+CMS-01,has_application,Communication
+EOS-01,launched_by,PSLV-C49/EOS-01
+EOS-01,in_orbit,LEO (Low Earth Orbit)
+EOS-01,has_application,"Disaster Management System, Earth Observation"
+GSAT-30,launched_by,Ariane-5 VA-251
+GSAT-30,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-30,has_application,Communication
+RISAT-2BR1,launched_by,PSLV-C48/RISAT-2BR1
+RISAT-2BR1,in_orbit,LEO (Low Earth Orbit)
+RISAT-2BR1,has_application,"Disaster Management System, Earth Observation"
+Cartosat-3,launched_by,PSLV-C47 / Cartosat-3 Mission
+Cartosat-3,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+Cartosat-3,has_application,Earth Observation
+Chandrayaan2,launched_by,GSLV-Mk III - M1 / Chandrayaan-2 Mission
+Chandrayaan2,in_orbit,Lunar
+Chandrayaan2,has_application,Planetary Observation
+RISAT-2B,launched_by,PSLV-C46 Mission
+RISAT-2B,in_orbit,LEO (Low Earth Orbit)
+RISAT-2B,has_application,"Disaster Management System, Earth Observation"
+EMISAT,launched_by,PSLV-C45/EMISAT MISSION
+EMISAT,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+EMISAT,has_application,Unknown
+GSAT-31,launched_by,Ariane-5 VA-247
+GSAT-31,in_orbit,GTO (Geosynchronous Transfer Orbit)
+GSAT-31,has_application,Communication
+Microsat-R,launched_by,PSLV-C44
+Microsat-R,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+Microsat-R,has_application,Unknown
+GSAT-7A,launched_by,GSLV-F11 / GSAT-7A Mission
+GSAT-7A,in_orbit,Unknown
+GSAT-7A,has_application,Communication
+GSAT-11 Mission,launched_by,Ariane-5 VA-246
+GSAT-11 Mission,in_orbit,GTO (Geosynchronous Transfer Orbit)
+GSAT-11 Mission,has_application,Communication
+HysIS,launched_by,PSLV-C43 / HysIS Mission
+HysIS,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+HysIS,has_application,Earth Observation
+GSAT-29,launched_by,GSLV Mk III-D2 / GSAT-29 Mission
+GSAT-29,in_orbit,GTO (Geosynchronous Transfer Orbit)
+GSAT-29,has_application,Communication
+IRNSS-1I,launched_by,PSLV-C41/IRNSS-1I
+IRNSS-1I,in_orbit,GSO (Geosynchronous Orbit)
+IRNSS-1I,has_application,Navigation
+GSAT-6A,launched_by,GSLV-F08/GSAT-6A Mission
+GSAT-6A,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-6A,has_application,Communication
+INS-1C,launched_by,PSLV-C40/Cartosat-2 Series Satellite Mission
+INS-1C,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+INS-1C,has_application,Experimental
+Microsat,launched_by,PSLV-C40/Cartosat-2 Series Satellite Mission
+Microsat,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+Microsat,has_application,Experimental
+Cartosat-2 Series Satellite,launched_by,PSLV-C40/Cartosat-2 Series Satellite Mission
+Cartosat-2 Series Satellite,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+Cartosat-2 Series Satellite,has_application,Earth Observation
+IRNSS-1H,launched_by,PSLV-C39/IRNSS-1H Mission
+IRNSS-1H,in_orbit,Unknown
+IRNSS-1H,has_application,Navigation
+GSAT-1 7,launched_by,Ariane-5 VA-238
+GSAT-1 7,in_orbit,GTO (Geosynchronous Transfer Orbit)
+GSAT-1 7,has_application,Communication
+Cartosat-2 Series Satellite,launched_by,PSLV-C38 / Cartosat-2 Series Satellite
+Cartosat-2 Series Satellite,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+Cartosat-2 Series Satellite,has_application,Earth Observation
+GSAT-19,launched_by,GSLV Mk III-D1/GSAT-19 Mission
+GSAT-19,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-19,has_application,Communication
+GSAT-9,launched_by,GSLV-F09 / GSAT-9
+GSAT-9,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-9,has_application,Communication
+Cartosat -2 Series Satellite,launched_by,PSLV-C37 / Cartosat -2 Series Satellite
+Cartosat -2 Series Satellite,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+Cartosat -2 Series Satellite,has_application,Earth Observation
+INS-1A,launched_by,PSLV-C37 / Cartosat -2 Series Satellite
+INS-1A,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+INS-1A,has_application,Experimental
+INS-1B,launched_by,PSLV-C37 / Cartosat -2 Series Satellite
+INS-1B,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+INS-1B,has_application,Experimental
+RESOURCESAT-2A,launched_by,PSLV-C36 / RESOURCESAT-2A
+RESOURCESAT-2A,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+RESOURCESAT-2A,has_application,Earth Observation
+GSAT-18,launched_by,Ariane-5 VA-231
+GSAT-18,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-18,has_application,Communication
+SCATSAT-1,launched_by,PSLV-C35 / SCATSAT-1
+SCATSAT-1,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+SCATSAT-1,has_application,Climate & Environment
+INSAT-3DR,launched_by,GSLV-F05 / INSAT-3DR
+INSAT-3DR,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-3DR,has_application,"Climate & Environment, Disaster Management System"
+CARTOSAT-2 Series Satellite,launched_by,PSLV-C34 / CARTOSAT-2 Series Satellite
+CARTOSAT-2 Series Satellite,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-2 Series Satellite,has_application,Earth Observation
+IRNSS-1G,launched_by,PSLV-C33/IRNSS-1G
+IRNSS-1G,in_orbit,GEO
+IRNSS-1G,has_application,Navigation
+IRNSS-1F,launched_by,PSLV-C32/IRNSS-1F
+IRNSS-1F,in_orbit,GEO
+IRNSS-1F,has_application,Navigation
+IRNSS-1E,launched_by,PSLV-C31/IRNSS-1E
+IRNSS-1E,in_orbit,GSO (Geosynchronous Orbit)
+IRNSS-1E,has_application,Navigation
+GSAT-15,launched_by,Ariane-5 VA-227
+GSAT-15,in_orbit,GEO
+GSAT-15,has_application,"Communication, Navigation"
+Astrosat,launched_by,PSLV-C30/AstroSat MISSION
+Astrosat,in_orbit,Unknown
+Astrosat,has_application,Space Science
+GSAT-6,launched_by,GSLV-D6
+GSAT-6,in_orbit,GTO (Geosynchronous Transfer Orbit)
+GSAT-6,has_application,Communication
+IRNSS-1D,launched_by,PSLV-C27/IRNSS-1D
+IRNSS-1D,in_orbit,GSO (Geosynchronous Orbit)
+IRNSS-1D,has_application,Navigation
+Crew module Atmospheric Re-entry Experiment (CARE),launched_by,LVM-3/CARE Mission
+Crew module Atmospheric Re-entry Experiment (CARE),in_orbit,Unknown
+Crew module Atmospheric Re-entry Experiment (CARE),has_application,Experimental
+GSAT-16,launched_by,Ariane-5 VA-221
+GSAT-16,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-16,has_application,Communication
+IRNSS-1C,launched_by,PSLV-C26/IRNSS-1C
+IRNSS-1C,in_orbit,GEO
+IRNSS-1C,has_application,Navigation
+IRNSS-1B,launched_by,PSLV-C24/IRNSS-1B
+IRNSS-1B,in_orbit,GSO (Geosynchronous Orbit)
+IRNSS-1B,has_application,Navigation
+GSAT-14,launched_by,GSLV-D5/GSAT-14
+GSAT-14,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-14,has_application,Communication
+Mars Orbiter Mission Spacecraft,launched_by,PSLV-C25
+Mars Orbiter Mission Spacecraft,in_orbit,Martian
+Mars Orbiter Mission Spacecraft,has_application,Planetary Observation
+GSAT-7,launched_by,Ariane-5 VA-215
+GSAT-7,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-7,has_application,Communication
+INSAT-3D,launched_by,Ariane-5 VA-214
+INSAT-3D,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-3D,has_application,"Climate & Environment, Disaster Management System"
+IRNSS-1A,launched_by,PSLV-C22/IRNSS-1A
+IRNSS-1A,in_orbit,GSO (Geosynchronous Orbit)
+IRNSS-1A,has_application,Navigation
+SARAL,launched_by,PSLV-C20/SARAL
+SARAL,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+SARAL,has_application,"Climate & Environment, Earth Observation"
+GSAT-10,launched_by,Ariane-5 VA-209
+GSAT-10,in_orbit,GEO
+GSAT-10,has_application,"Communication, Navigation"
+RISAT-1,launched_by,PSLV-C19/RISAT-1
+RISAT-1,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+RISAT-1,has_application,Earth Observation
+Megha-Tropiques,launched_by,PSLV-C18/Megha-Tropiques
+Megha-Tropiques,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+Megha-Tropiques,has_application,"Climate & Environment, Earth Observation"
+GSAT-12,launched_by,PSLV-C17/GSAT-12
+GSAT-12,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-12,has_application,Communication
+GSAT-8,launched_by,Ariane-5 VA-202
+GSAT-8,in_orbit,GEO
+GSAT-8,has_application,"Communication, Navigation"
+RESOURCESAT-2,launched_by,PSLV-C16/RESOURCESAT-2
+RESOURCESAT-2,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+RESOURCESAT-2,has_application,Earth Observation
+YOUTHSAT,launched_by,PSLV-C16/RESOURCESAT-2
+YOUTHSAT,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+YOUTHSAT,has_application,Student Satellite
+GSAT-5P,launched_by,GSLV-F06 / GSAT-5P
+GSAT-5P,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-5P,has_application,Communication
+CARTOSAT-2B,launched_by,PSLV-C15/CARTOSAT-2B
+CARTOSAT-2B,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-2B,has_application,Earth Observation
+GSAT-4,launched_by,GSLV-D3 / GSAT-4
+GSAT-4,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-4,has_application,Communication
+Oceansat-2,launched_by,PSLV-C14 / OCEANSAT-2
+Oceansat-2,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+Oceansat-2,has_application,"Climate & Environment, Earth Observation"
+RISAT-2,launched_by,PSLV-C12 / RISAT-2
+RISAT-2,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+RISAT-2,has_application,Earth Observation
+Chandrayaan-1,launched_by,PSLV-C11
+Chandrayaan-1,in_orbit,Lunar
+Chandrayaan-1,has_application,Planetary Observation
+IMS-1,launched_by,PSLV-C9 / CARTOSAT  2A
+IMS-1,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+IMS-1,has_application,Earth Observation
+CARTOSAT  2A,launched_by,PSLV-C9 / CARTOSAT  2A
+CARTOSAT  2A,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT  2A,has_application,Earth Observation
+INSAT-4CR,launched_by,GSLV-F04 / INSAT-4CR
+INSAT-4CR,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-4CR,has_application,Communication
+INSAT-4B,launched_by,Ariane5
+INSAT-4B,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-4B,has_application,Communication
+CARTOSAT-2,launched_by,PSLV-C7 / CARTOSAT-2 / SRE-1
+CARTOSAT-2,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-2,has_application,Earth Observation
+SRE-1,launched_by,PSLV-C7 / CARTOSAT-2 / SRE-1
+SRE-1,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+SRE-1,has_application,Experimental
+INSAT-4C,launched_by,GSLV-F02 / INSAT-4C
+INSAT-4C,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-4C,has_application,Communication
+INSAT-4A,launched_by,Ariane5-V169
+INSAT-4A,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-4A,has_application,Communication
+CARTOSAT-1,launched_by,PSLV-C6/CARTOSAT-1/HAMSAT
+CARTOSAT-1,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-1,has_application,Earth Observation
+HAMSAT,launched_by,PSLV-C6/CARTOSAT-1/HAMSAT
+HAMSAT,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+HAMSAT,has_application,Communication
+EDUSAT,launched_by,GSLV-F01 / EDUSAT (GSAT-3)
+EDUSAT,in_orbit,GSO (Geosynchronous Orbit)
+EDUSAT,has_application,Communication
+IRS-P6 / RESOURCESAT-1,launched_by,PSLV-C5 /RESOURCESAT-1
+IRS-P6 / RESOURCESAT-1,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+IRS-P6 / RESOURCESAT-1,has_application,Earth Observation
+INSAT-3E,launched_by,Ariane5-V162
+INSAT-3E,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-3E,has_application,Communication
+GSAT-2,launched_by,GSLV-D2 / GSAT-2
+GSAT-2,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-2,has_application,Communication
+INSAT-3A,launched_by,Ariane5-V160
+INSAT-3A,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-3A,has_application,"Climate & Environment, Communication"
+KALPANA-1,launched_by,PSLV-C4 /KALPANA-1
+KALPANA-1,in_orbit,GSO (Geosynchronous Orbit)
+KALPANA-1,has_application,"Climate & Environment, Communication"
+INSAT-3C,launched_by,Ariane5-V147
+INSAT-3C,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-3C,has_application,"Climate & Environment, Communication"
+The Technology Experiment Satellite (TES),launched_by,PSLV-C3 / TES
+The Technology Experiment Satellite (TES),in_orbit,SSPO (Sun Synchronous Polar Orbit)
+The Technology Experiment Satellite (TES),has_application,Earth Observation
+GSAT-1,launched_by,GSLV-D1 / GSAT-1
+GSAT-1,in_orbit,GSO (Geosynchronous Orbit)
+GSAT-1,has_application,Communication
+INSAT-3B,launched_by,Ariane-5G
+INSAT-3B,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-3B,has_application,Communication
+Oceansat(IRS-P4),launched_by,PSLV-C2/IRS-P4
+Oceansat(IRS-P4),in_orbit,SSPO (Sun Synchronous Polar Orbit)
+Oceansat(IRS-P4),has_application,Earth Observation
+INSAT-2E,launched_by,Ariane-42P H10-3
+INSAT-2E,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-2E,has_application,Communication
+IRS-1D,launched_by,PSLV-C1 / IRS-1D
+IRS-1D,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+IRS-1D,has_application,Earth Observation
+INSAT-2D,launched_by,Ariane-44L H10-3
+INSAT-2D,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-2D,has_application,Communication
+IRS-P3,launched_by,PSLV-D3 / IRS-P3
+IRS-P3,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+IRS-P3,has_application,Earth Observation
+IRS-1C,launched_by,Molniya
+IRS-1C,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+IRS-1C,has_application,Earth Observation
+INSAT-2C,launched_by,Ariane-44L H10-3
+INSAT-2C,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-2C,has_application,Communication
+IRS-P2,launched_by,PSLV-D2
+IRS-P2,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+IRS-P2,has_application,Earth Observation
+SROSS-C2,launched_by,ASLV-D4
+SROSS-C2,in_orbit,Unknown
+SROSS-C2,has_application,Experimental
+IRS-1E,launched_by,PSLV-D1
+IRS-1E,in_orbit,LEO (Low Earth Orbit)
+IRS-1E,has_application,Earth Observation
+INSAT-2B,launched_by,Ariane-44L H10+
+INSAT-2B,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-2B,has_application,Communication
+INSAT-2A,launched_by,Ariane-44L H10
+INSAT-2A,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-2A,has_application,Communication
+SROSS-C,launched_by,ASLV-D3
+SROSS-C,in_orbit,Unknown
+SROSS-C,has_application,Experimental
+IRS-1B,launched_by,Vostok
+IRS-1B,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+IRS-1B,has_application,Earth Observation
+INSAT-1D,launched_by,Delta 4925
+INSAT-1D,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-1D,has_application,Communication
+INSAT-1C,launched_by,Ariane-3
+INSAT-1C,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-1C,has_application,Communication
+SROSS-2,launched_by,ASLV-D2
+SROSS-2,in_orbit,Unknown
+SROSS-2,has_application,"Earth Observation, Experimental"
+IRS-1A,launched_by,Vostok
+IRS-1A,in_orbit,SSPO (Sun Synchronous Polar Orbit)
+IRS-1A,has_application,Earth Observation
+SROSS-1,launched_by,ASLV-D1
+SROSS-1,in_orbit,Unknown
+SROSS-1,has_application,Experimental
+INSAT-1B,launched_by,Shuttle [PAM-D]
+INSAT-1B,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-1B,has_application,Communication
+Rohini Satellite RS-D2,launched_by,SLV-3
+Rohini Satellite RS-D2,in_orbit,LEO (Low Earth Orbit)
+Rohini Satellite RS-D2,has_application,Earth Observation
+INSAT-1A,launched_by,Delta
+INSAT-1A,in_orbit,GSO (Geosynchronous Orbit)
+INSAT-1A,has_application,Communication
+Bhaskara-II,launched_by,C-1 Intercosmos
+Bhaskara-II,in_orbit,LEO (Low Earth Orbit)
+Bhaskara-II,has_application,"Earth Observation, Experimental"
+APPLE,launched_by,Ariane -1(V-3)
+APPLE,in_orbit,GSO (Geosynchronous Orbit)
+APPLE,has_application,"Communication, Experimental"
+Rohini Satellite RS-D1,launched_by,SLV-3D1
+Rohini Satellite RS-D1,in_orbit,LEO (Low Earth Orbit)
+Rohini Satellite RS-D1,has_application,Earth Observation
+Rohini Satellite RS-1,launched_by,SLV-3E2
+Rohini Satellite RS-1,in_orbit,Unknown
+Rohini Satellite RS-1,has_application,Unknown
+Rohini Technology Payload (RTP),launched_by,SLV-3E1
+Rohini Technology Payload (RTP),in_orbit,Unknown
+Rohini Technology Payload (RTP),has_application,Unknown
+Bhaskara-I,launched_by,C-1Intercosmos
+Bhaskara-I,in_orbit,LEO (Low Earth Orbit)
+Bhaskara-I,has_application,"Earth Observation, Experimental"
+Aryabhata,launched_by,C-1 Intercosmos
+Aryabhata,in_orbit,Unknown
+Aryabhata,has_application,Experimental

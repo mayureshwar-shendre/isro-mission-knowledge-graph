@@ -1,0 +1,14 @@
+satellite_name,launch_date,launch_vehicle,orbit,application,year,month,rocket_family,mission,orbit_cat,recent_launch
+GSAT-6,2015-08-27,GSLV-D6,GTO (Geosynchronous Transfer Orbit),Communication,2015,Aug,GSLV-D6,GSLV-D6,GTO,1
+GSAT-19,2017-06-05,GSLV Mk III-D1/GSAT-19 Mission,GSO (Geosynchronous Orbit),Communication,2017,Jun,GSLV,GSAT-19,GSO,1
+EOS-01,2020-11-07,PSLV-C49/EOS-01,LEO (Low Earth Orbit),"Disaster Management System, Earth Observation",2020,Nov,PSLV-C49/EOS-01,EOS-01,LEO,1
+GSAT-29,2018-11-14,GSLV Mk III-D2 / GSAT-29 Mission,GTO (Geosynchronous Transfer Orbit),Communication,2018,Nov,GSLV, GSAT-29,GTO,1
+INSAT-1D,1990-06-12,Delta 4925,GSO (Geosynchronous Orbit),Communication,1990,Jun,Delta,Delta 4925,GSO,0
+IRNSS-1D,2015-03-28,PSLV-C27/IRNSS-1D,GSO (Geosynchronous Orbit),Navigation,2015,Mar,PSLV-C27/IRNSS-1D,IRNSS-1D,GSO,1
+Megha-Tropiques,2011-10-12,PSLV-C18/Megha-Tropiques,SSPO (Sun Synchronous Polar Orbit),"Climate & Environment, Earth Observation",2011,Oct,PSLV-C18/Megha-Tropiques,Megha-Tropiques,SSPO,0
+IRS-1C,1995-12-28,Molniya,SSPO (Sun Synchronous Polar Orbit),Earth Observation,1995,Dec,Molniya,Molniya,SSPO,0
+CARTOSAT  2A,2008-04-28,PSLV-C9 / CARTOSAT  2A,SSPO (Sun Synchronous Polar Orbit),Earth Observation,2008,Apr,PSLV-C9, CARTOSAT  2A,SSPO,0
+GSAT-31,2019-02-06,Ariane-5 VA-247,GTO (Geosynchronous Transfer Orbit),Communication,2019,Feb,Ariane-5,Ariane-5 VA-247,GTO,1
+KALPANA-1,2002-09-12,PSLV-C4 /KALPANA-1,GSO (Geosynchronous Orbit),"Climate & Environment, Communication",2002,Sep,PSLV-C4,KALPANA-1,GSO,0
+Microsat-R,2019-01-24,PSLV-C44,SSPO (Sun Synchronous Polar Orbit),Unknown,2019,Jan,PSLV-C44,PSLV-C44,SSPO,1
+INSAT-3D,2013-07-26,Ariane-5 VA-214,GSO (Geosynchronous Orbit),"Climate & Environment, Disaster Management System",2013,Jul,Ariane-5,Ariane-5 VA-214,GSO,0

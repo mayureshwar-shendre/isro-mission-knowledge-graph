@@ -1,0 +1,15 @@
+{
+    "source": "ISRO Satellite Missions List (Kaggle)",
+    "last_updated": "2026-02-17",
+    "columns": {
+        "satellite_name": "Name of the satellite or mission",
+        "launch_date": "Date of launch (YYYY-MM-DD)",
+        "launch_vehicle": "Launch vehicle or rocket used",
+        "orbit": "Orbit type or altitude (e.g. LEO, GTO, SSO)",
+        "application": "Primary mission application (e.g. Earth Observation)",
+        "year": "Launch year (derived)",
+        "month": "Launch month (derived)",
+        "rocket_family": "Rocket family (derived)",
+        "mission": "Mission identifier (derived)"
+    }
+}

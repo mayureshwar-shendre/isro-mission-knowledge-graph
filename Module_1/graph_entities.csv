@@ -1,0 +1,271 @@
+entity,type
+NISAR(NASA-ISRO),Satellite
+EOS-09,Satellite
+NVS-02(NavIC Series),Satellite
+"SPADEX, POEM-4",Satellite
+Proba-3 (ESA),Satellite
+Aditya-L1,Satellite
+Chandrayaan-3,Satellite
+NVS-01,Satellite
+EOS-07,Satellite
+Thybolt,Satellite
+Anand,Satellite
+INS-2B,Satellite
+EOS-06,Satellite
+EOS-02,Satellite
+GSAT-24,Satellite
+INS-2TD,Satellite
+EOS-04,Satellite
+EOS-03,Satellite
+CMS-01,Satellite
+EOS-01,Satellite
+GSAT-30,Satellite
+RISAT-2BR1,Satellite
+Cartosat-3,Satellite
+Chandrayaan2,Satellite
+RISAT-2B,Satellite
+EMISAT,Satellite
+GSAT-31,Satellite
+Microsat-R,Satellite
+GSAT-7A,Satellite
+GSAT-11 Mission,Satellite
+HysIS,Satellite
+GSAT-29,Satellite
+IRNSS-1I,Satellite
+GSAT-6A,Satellite
+INS-1C,Satellite
+Microsat,Satellite
+Cartosat-2 Series Satellite,Satellite
+IRNSS-1H,Satellite
+GSAT-1 7,Satellite
+GSAT-19,Satellite
+GSAT-9,Satellite
+Cartosat -2 Series Satellite,Satellite
+INS-1A,Satellite
+INS-1B,Satellite
+RESOURCESAT-2A,Satellite
+GSAT-18,Satellite
+SCATSAT-1,Satellite
+INSAT-3DR,Satellite
+CARTOSAT-2 Series Satellite,Satellite
+IRNSS-1G,Satellite
+IRNSS-1F,Satellite
+IRNSS-1E,Satellite
+GSAT-15,Satellite
+Astrosat,Satellite
+GSAT-6,Satellite
+IRNSS-1D,Satellite
+Crew module Atmospheric Re-entry Experiment (CARE),Satellite
+GSAT-16,Satellite
+IRNSS-1C,Satellite
+IRNSS-1B,Satellite
+GSAT-14,Satellite
+Mars Orbiter Mission Spacecraft,Satellite
+GSAT-7,Satellite
+INSAT-3D,Satellite
+IRNSS-1A,Satellite
+SARAL,Satellite
+GSAT-10,Satellite
+RISAT-1,Satellite
+Megha-Tropiques,Satellite
+GSAT-12,Satellite
+GSAT-8,Satellite
+RESOURCESAT-2,Satellite
+YOUTHSAT,Satellite
+GSAT-5P,Satellite
+CARTOSAT-2B,Satellite
+GSAT-4,Satellite
+Oceansat-2,Satellite
+RISAT-2,Satellite
+Chandrayaan-1,Satellite
+IMS-1,Satellite
+CARTOSAT  2A,Satellite
+INSAT-4CR,Satellite
+INSAT-4B,Satellite
+CARTOSAT-2,Satellite
+SRE-1,Satellite
+INSAT-4C,Satellite
+INSAT-4A,Satellite
+CARTOSAT-1,Satellite
+HAMSAT,Satellite
+EDUSAT,Satellite
+IRS-P6 / RESOURCESAT-1,Satellite
+INSAT-3E,Satellite
+GSAT-2,Satellite
+INSAT-3A,Satellite
+KALPANA-1,Satellite
+INSAT-3C,Satellite
+The Technology Experiment Satellite (TES),Satellite
+GSAT-1,Satellite
+INSAT-3B,Satellite
+Oceansat(IRS-P4),Satellite
+INSAT-2E,Satellite
+IRS-1D,Satellite
+INSAT-2D,Satellite
+IRS-P3,Satellite
+IRS-1C,Satellite
+INSAT-2C,Satellite
+IRS-P2,Satellite
+SROSS-C2,Satellite
+IRS-1E,Satellite
+INSAT-2B,Satellite
+INSAT-2A,Satellite
+SROSS-C,Satellite
+IRS-1B,Satellite
+INSAT-1D,Satellite
+INSAT-1C,Satellite
+SROSS-2,Satellite
+IRS-1A,Satellite
+SROSS-1,Satellite
+INSAT-1B,Satellite
+Rohini Satellite RS-D2,Satellite
+INSAT-1A,Satellite
+Bhaskara-II,Satellite
+APPLE,Satellite
+Rohini Satellite RS-D1,Satellite
+Rohini Satellite RS-1,Satellite
+Rohini Technology Payload (RTP),Satellite
+Bhaskara-I,Satellite
+Aryabhata,Satellite
+GSLV-F16/NISAR Mission,Rocket
+SSO (Sun Synchronous Orbit),Orbit
+Earth Observation(Radar),Application
+PSLV-C61/EOS-09 Mission,Rocket
+Earth Observation,Application
+GSLV-F15/NVS-02 Mission,Rocket
+GTO (Geosynchronous Transfer Orbit),Orbit
+Navigation,Application
+"PSLV-C60,SPADEX,POEM-4 Mission",Rocket
+LEO (Low Earth Orbit),Orbit
+In-Orbit Docking Experiment,Application
+PSLV-C59/Proba-3 Mission,Rocket
+HEO (High Elliptical Orbit),Orbit
+Formation Flying(Technology Demonstration),Application
+PSLV-C57/Aditya-L1 Mission,Rocket
+Lunar,Orbit
+Planetary Observation,Application
+LVM3 M4 / Chandrayaan-3 Mission,Rocket
+GSLV-F12/NVS-01 Mission,Rocket
+Unknown,Orbit
+SSLV-D2/EOS-07 Mission,Rocket
+PSLV-C54/EOS-06 Mission,Rocket
+SSLV-D1/EOS-02 Mission,Rocket
+Ariane-V(VS257),Rocket
+GSO (Geosynchronous Orbit),Orbit
+Communication,Application
+PSLV-C52/EOS-04 Mission,Rocket
+Experimental,Application
+GSLV-F10 / EOS-03 Mission,Rocket
+PSLV-C50/CMS-01,Rocket
+PSLV-C49/EOS-01,Rocket
+"Disaster Management System, Earth Observation",Application
+Ariane-5 VA-251,Rocket
+PSLV-C48/RISAT-2BR1,Rocket
+PSLV-C47 / Cartosat-3 Mission,Rocket
+SSPO (Sun Synchronous Polar Orbit),Orbit
+GSLV-Mk III - M1 / Chandrayaan-2 Mission,Rocket
+PSLV-C46 Mission,Rocket
+PSLV-C45/EMISAT MISSION,Rocket
+Ariane-5 VA-247,Rocket
+PSLV-C44,Rocket
+GSLV-F11 / GSAT-7A Mission,Rocket
+Ariane-5 VA-246,Rocket
+PSLV-C43 / HysIS Mission,Rocket
+GSLV Mk III-D2 / GSAT-29 Mission,Rocket
+PSLV-C41/IRNSS-1I,Rocket
+GSLV-F08/GSAT-6A Mission,Rocket
+PSLV-C40/Cartosat-2 Series Satellite Mission,Rocket
+PSLV-C39/IRNSS-1H Mission,Rocket
+Ariane-5 VA-238,Rocket
+PSLV-C38 / Cartosat-2 Series Satellite,Rocket
+GSLV Mk III-D1/GSAT-19 Mission,Rocket
+GSLV-F09 / GSAT-9,Rocket
+PSLV-C37 / Cartosat -2 Series Satellite,Rocket
+PSLV-C36 / RESOURCESAT-2A,Rocket
+Ariane-5 VA-231,Rocket
+PSLV-C35 / SCATSAT-1,Rocket
+Climate & Environment,Application
+GSLV-F05 / INSAT-3DR,Rocket
+"Climate & Environment, Disaster Management System",Application
+PSLV-C34 / CARTOSAT-2 Series Satellite,Rocket
+PSLV-C33/IRNSS-1G,Rocket
+GEO,Orbit
+PSLV-C32/IRNSS-1F,Rocket
+PSLV-C31/IRNSS-1E,Rocket
+Ariane-5 VA-227,Rocket
+"Communication, Navigation",Application
+PSLV-C30/AstroSat MISSION,Rocket
+Space Science,Application
+GSLV-D6,Rocket
+PSLV-C27/IRNSS-1D,Rocket
+LVM-3/CARE Mission,Rocket
+Ariane-5 VA-221,Rocket
+PSLV-C26/IRNSS-1C,Rocket
+PSLV-C24/IRNSS-1B,Rocket
+GSLV-D5/GSAT-14,Rocket
+PSLV-C25,Rocket
+Martian,Orbit
+Ariane-5 VA-215,Rocket
+Ariane-5 VA-214,Rocket
+PSLV-C22/IRNSS-1A,Rocket
+PSLV-C20/SARAL,Rocket
+"Climate & Environment, Earth Observation",Application
+Ariane-5 VA-209,Rocket
+PSLV-C19/RISAT-1,Rocket
+PSLV-C18/Megha-Tropiques,Rocket
+PSLV-C17/GSAT-12,Rocket
+Ariane-5 VA-202,Rocket
+PSLV-C16/RESOURCESAT-2,Rocket
+Student Satellite,Application
+GSLV-F06 / GSAT-5P,Rocket
+PSLV-C15/CARTOSAT-2B,Rocket
+GSLV-D3 / GSAT-4,Rocket
+PSLV-C14 / OCEANSAT-2,Rocket
+PSLV-C12 / RISAT-2,Rocket
+PSLV-C11,Rocket
+PSLV-C9 / CARTOSAT  2A,Rocket
+GSLV-F04 / INSAT-4CR,Rocket
+Ariane5,Rocket
+PSLV-C7 / CARTOSAT-2 / SRE-1,Rocket
+GSLV-F02 / INSAT-4C,Rocket
+Ariane5-V169,Rocket
+PSLV-C6/CARTOSAT-1/HAMSAT,Rocket
+GSLV-F01 / EDUSAT (GSAT-3),Rocket
+PSLV-C5 /RESOURCESAT-1,Rocket
+Ariane5-V162,Rocket
+GSLV-D2 / GSAT-2,Rocket
+Ariane5-V160,Rocket
+"Climate & Environment, Communication",Application
+PSLV-C4 /KALPANA-1,Rocket
+Ariane5-V147,Rocket
+PSLV-C3 / TES,Rocket
+GSLV-D1 / GSAT-1,Rocket
+Ariane-5G,Rocket
+PSLV-C2/IRS-P4,Rocket
+Ariane-42P H10-3,Rocket
+PSLV-C1 / IRS-1D,Rocket
+Ariane-44L H10-3,Rocket
+PSLV-D3 / IRS-P3,Rocket
+Molniya,Rocket
+PSLV-D2,Rocket
+ASLV-D4,Rocket
+PSLV-D1,Rocket
+Ariane-44L H10+,Rocket
+Ariane-44L H10,Rocket
+ASLV-D3,Rocket
+Vostok,Rocket
+Delta 4925,Rocket
+Ariane-3,Rocket
+ASLV-D2,Rocket
+"Earth Observation, Experimental",Application
+ASLV-D1,Rocket
+Shuttle [PAM-D],Rocket
+SLV-3,Rocket
+Delta,Rocket
+C-1 Intercosmos,Rocket
+Ariane -1(V-3),Rocket
+"Communication, Experimental",Application
+SLV-3D1,Rocket
+SLV-3E2,Rocket
+SLV-3E1,Rocket
+C-1Intercosmos,Rocket
