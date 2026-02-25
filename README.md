@@ -43,7 +43,21 @@ Transform raw, unstructured enterprise data into structured, interconnected inte
 ---
 
 ## 🏗️ Architecture
-
+```
+Raw ISRO Data (CSV / Docs)
+        ↓
+MODULE 1: Data Ingestion & Preprocessing
+        ↓
+MODULE 2: Entity & Relationship Extraction
+        ↓
+MODULE 3: Knowledge Graph Construction
+        ↓
+MODULE 4: RAG + Semantic Search
+        ↓
+MODULE 5: Interactive Graph Dashboard
+        ↓
+Actionable Mission Intelligence
+```
 ---
 
 
@@ -52,7 +66,8 @@ Transform raw, unstructured enterprise data into structured, interconnected inte
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                    RAW ENTERPRISE DATA                              │
-│  (Customer Support Tickets, Emails, Documents, Database Records)    │
+│  (Satellite Name, Launch Date, Launch Vehicle, Orbit, Application   |
+|   Communication/Remote Sensing))                                    │
 └──────────────────────────┬──────────────────────────────────────────┘
                            │
                            ▼
@@ -89,17 +104,23 @@ Transform raw, unstructured enterprise data into structured, interconnected inte
               └────────────┬────────────┘
                            │
                            ▼
-        ┌─────────────────────────────────────┐
-        │   ACTIONABLE BUSINESS INTELLIGENCE   │
-        └─────────────────────────────────────┘
+      ┌─────────────────────────────────────────┐
+      │ ACTIONABLE ISRO NAVIGATOR INTELLIGENCE  │
+      └─────────────────────────────────────────┘
 ```
 
 ### Technology Stack
 
-| Layer | Technologies |
-|-------|--------------|
-| **Data Processing** | Pandas, NumPy, Scikit-learn, NLTK |
-| **AI/ML** |  |
+| Layer           | Tools                          |
+| --------------- | ------------------------------ |
+| Data Processing | Pandas, NumPy                  |
+| NLP / AI        | spaCy, Hugging Face, LangChain |
+| Graph DB        | Neo4j, TigerGraph              |
+| Vector DB       | FAISS                          |
+| Frontend        | React, D3.js, Plotly           |
+| Cloud           | Google Colab                   |
+| Version Control | GitHub                         |
+
 
 ---
 
@@ -109,8 +130,8 @@ Transform raw, unstructured enterprise data into structured, interconnected inte
 
 ```python
 # Step 1: Clone Repository
-!git clone https://github.com/mayureshwar-shendre/enterprise-data-intelligence-platform.git
-%cd enterprise-data-intelligence-platform
+!git clone https://github.com/mayureshwar-shendre/isro-mission-knowledge-graph.git
+%cd isro-mission-knowledge-graph
 
 # Step 2: Install Dependencies
 !pip install -r requirements.txt
@@ -119,11 +140,6 @@ Transform raw, unstructured enterprise data into structured, interconnected inte
 from google.colab import drive
 drive.mount('/content/drive')
 
-# Step 4: Verify Installation
-import sys
-sys.path.append('/content/enterprise-data-intelligence-platform')
-from module_1_data_ingestion import DataPreprocessor
-print("✅ Installation successful!")
 ```
 
 ## 🗂️ Repository Structure
@@ -237,6 +253,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## ⭐ Show Your Support
+If you find this useful:
+
+⭐ Star the repository
+
+🍴 Fork and build on it
+
+📢 Share with the community
 
 If this project helped you, please give it a **star** on GitHub! Your support helps us continue improving the platform.
 
