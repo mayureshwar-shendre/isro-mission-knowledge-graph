@@ -1,7 +1,6 @@
 <div align="center">
   
 # **🧩 Module 2: Entity & Relationship Extraction Engine**
-### 📁 Folder: **[module-2-entity-relationship-extraction/](Module_2)**
 
 </div>
 
