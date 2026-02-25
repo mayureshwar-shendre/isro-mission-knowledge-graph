@@ -210,7 +210,7 @@ enterprise-data-intelligence-platform/
 │   ├── graph_entities
 │   ├── graph_edges
 │   ├── README.md                     # Module documentation
-│   ├── Data_Ingestion_Preprocessing_for_Satellite_Dataset.ipynb📂 Figure
+│   ├── Data_Ingestion_Preprocessing_for_Satellite_Dataset.ipynb
 │   └── 📂 Figure/
 │        ├── Fig1_Missing Values per Column (Initial)
 │        ├── Fig2_Satellites Launched per Year
