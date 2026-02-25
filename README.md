@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/status-Production%20Ready-success)
 ![Documentation](https://img.shields.io/badge/docs-Complete-informational)
 
-**Transform ISRO's mission data into an interactive knowledge graph.** Automatically ingest mission logs, satellite telemetry, launch records, and orbital data. Extract entities (missions, satellites, payloads, orbits), build relationships, enable semantic search, and visualize mission networks in a dynamic dashboard.[file:1]
+**Transform ISRO's mission data into an interactive knowledge graph.** Automatically ingest mission logs, satellite telemetry, launch records, and orbital data. Extract entities (missions, satellites, payloads, orbits), build relationships, enable semantic search, and visualize mission networks in a dynamic dashboard.
 
 [🎯 Vision](#vision) • [✨ Features](#features) • [🏗️ Architecture](#architecture) • [📦 Installation](#installation) • [📚 Documentation](#documentation) • [🤝 Contributing](#contributing)
 
@@ -218,6 +218,21 @@ enterprise-data-intelligence-platform/
 │        └── Fig4_Top Rocket Families Used
 │
 ├── 📂 Module_2/                       # NER & Relations for missions, satellites, launches
+│   ├── 07_standardized_data           # Input Datasets from Module 1
+│   ├── ner_entities.csv                # LLM NER: Mission, Satellite, Launch entities
+│   ├── triples.csv                     # Cleaning & deduplication
+│   ├── Fig1_Visual Graph               # Visual Representation
+│   ├── Entity_Relationship_Extraction_Engine.ipynb
+│   └── 📂 Visualization/
+│        ├── M2_Entity_Relationship_Visualization
+│        ├── TYPE 1_ ISRO Knowledge Graph
+│        ├── TYPE 2_ ISRO Knowledge Graph
+│        ├── TYPE 3_ ISRO Knowledge Graph (by application)
+│        ├── TYPE 3_ ISRO Knowledge Graph (by launch)
+│        ├── TYPE 4 ISRO Knowledge Graph.png
+│        ├── TYPE 5 ISRO Knowledge Graph.png
+│        ├── TYPE 6_ ISRO Knowledge Graph
+│        └── TYPE 7_ ISRO Knowledge Graph (chandrayaan-3)
 ├── 📂 Module_3/                       # Neo4j graph for ISRO missions
 ├── 📂 Module_4/                       # Semantic search over ISRO missions
 ├── 📂 Module_5/                       # Interactive ISRO mission navigator
@@ -312,5 +327,5 @@ If this project helped you, please give it a **star** on GitHub! Your support he
 
 ---
 
-**Last Updated**: January 2026 | **Version**: 1.0.0 | **Status**: Production Ready ✅
+**Last Updated**: Feb 2026 | **Version**: 1.0.0 | **Status**: Model Completed ✅
 
