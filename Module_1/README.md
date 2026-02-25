@@ -1,7 +1,6 @@
 <div align="center">
   
 # **📦 Module 1: Data Ingestion & Preprocessing Layer**
-### 📁 Folder: **[module-1-data-ingestion-preprocessing/](Module_1)**
 
 </div>
 
