@@ -220,11 +220,13 @@ enterprise-data-intelligence-platform/
 ├── 📂 Module_2/                       # NER & Relations for missions, satellites, launches
 │   ├── 07_standardized_data           # Input Datasets from Module 1
 │   ├── ner_entities.csv                # LLM NER: Mission, Satellite, Launch entities
-│   ├── triples.csv                     # Cleaning & deduplication
+│   ├── triples.csv                     # E-R-E triples for ISRO data
 │   ├── Fig1_Visual Graph               # Visual Representation
+│   ├── README.md                     # Module documentation
 │   ├── Entity_Relationship_Extraction_Engine.ipynb
 │   └── 📂 Visualization/
 │        ├── M2_Entity_Relationship_Visualization
+│        ├── README.md                     # Module documentation
 │        ├── TYPE 1_ ISRO Knowledge Graph
 │        ├── TYPE 2_ ISRO Knowledge Graph
 │        ├── TYPE 3_ ISRO Knowledge Graph (by application)
@@ -234,7 +236,16 @@ enterprise-data-intelligence-platform/
 │        ├── TYPE 6_ ISRO Knowledge Graph
 │        └── TYPE 7_ ISRO Knowledge Graph (chandrayaan-3)
 ├── 📂 Module_3/                       # Neo4j graph for ISRO missions
+│   ├── triples.csv                    # Input Datasets from Module 2
+│   ├── exported_graph.csv             # Output
+│   ├── triples.csv                     # E-R-E triples for ISRO data
+│   ├── README.md                     # Module documentation
+│   └── Graph_Construction_and_Storage_Hub.ipynb
 ├── 📂 Module_4/                       # Semantic search over ISRO missions
+│   ├── exported_graph.csv              # Input Datasets from Module 3
+│   ├── triples.csv                     # E-R-E triples for ISRO data
+│   ├── README.md                     # Module documentation
+│   └── RAG_Semantic_Search_ISRO.ipynb
 ├── 📂 Module_5/                       # Interactive ISRO mission navigator
 ├── 📂 data/
 │   └── ISRO_Satellite_List.csv
