@@ -1,0 +1,77 @@
+# ================================
+# CORE PYTHON & UTILITIES
+# ================================
+python-dotenv==1.0.1
+tqdm==4.66.2
+pyyaml==6.0.1
+loguru==0.7.2
+
+# ================================
+# DATA INGESTION & PREPROCESSING (Module 1)
+# ================================
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.1.post1
+nltk==3.8.1
+openpyxl==3.1.2
+python-dateutil==2.8.2
+
+# ================================
+# NLP & ENTITY RELATIONSHIP EXTRACTION (Module 2)
+# ================================
+spacy==3.7.4
+transformers==4.39.3
+sentence-transformers==2.6.1
+torch>=2.1.0
+regex==2023.12.25
+
+# Optional spaCy model (install separately)
+# python -m spacy download en_core_web_sm
+
+# ================================
+# KNOWLEDGE GRAPH CONSTRUCTION (Module 3)
+# ================================
+neo4j==5.18.0
+networkx==3.2.1
+py2neo==2021.2.4
+
+# ================================
+# RAG & SEMANTIC SEARCH (Module 4)
+# ================================
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-openai==0.1.3
+openai==1.14.3
+faiss-cpu==1.7.4
+pinecone-client==3.2.2
+tiktoken==0.6.0
+
+# ================================
+# EMBEDDINGS & VECTOR SEARCH
+# ================================
+huggingface-hub==0.22.2
+scipy==1.12.0
+
+# ================================
+# DASHBOARD & VISUALIZATION (Module 5)
+# ================================
+flask==3.0.2
+flask-cors==4.0.0
+plotly==5.20.0
+dash==2.16.1
+streamlit==1.33.0
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# ================================
+# NOTEBOOK & DEVELOPMENT
+# ================================
+jupyter==1.0.0
+ipykernel==6.29.3
+notebook==7.1.2
+
+# ================================
+# FILE HANDLING & APIs
+# ================================
+requests==2.31.0
+beautifulsoup4==4.12.3
