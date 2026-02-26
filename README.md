@@ -247,8 +247,19 @@ enterprise-data-intelligence-platform/
 │   ├── README.md                     # Module documentation
 │   └── RAG_Semantic_Search_ISRO.ipynb
 ├── 📂 Module_5/                       # Interactive ISRO mission navigator
-├── 📂 data/
+│   ├── exported_graph.csv              # Input Datasets from Module 3
+│   ├── Fig_1 & 2                     # Visual Representation
+│   ├── README.md                     # Module documentation
+│   └── ISRO_Interactive_Graph_Dashboard
+│
+├── 📂 src/
+│   ├── logo.jpeg                     # Project logo
 │   └── ISRO_Satellite_List.csv
+│
+├── 📂 isro-mission-web/
+│   ├── backend/        # Flask/FastAPI server code
+│   └── frontend/       # React + D3 dashboard
+│   
 └── 📂 tests/
 ```
 
