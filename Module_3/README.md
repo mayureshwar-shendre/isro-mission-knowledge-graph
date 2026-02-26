@@ -9,39 +9,55 @@
 
 ## 🧠 Overview
 
-The Entity & Relationship Extraction Engine is the core intelligence module that automatically identifies entities (e.g., Satellites, Rockets, Scientists, Missions) and their relationships from ISRO datasets using AI and NLP techniques.
+This module is responsible for constructing and storing the ISRO Mission Knowledge Graph using extracted entities and relationships in a scalable graph database environment.
 
 ---
 
 
 ## 🎯 Purpose
 
-To transform raw mission data into structured knowledge triples (Entity → Relation → Entity) that form the backbone of the knowledge graph.
+To build a dynamic and queryable knowledge graph that connects missions, rockets, satellites, and scientists in an interactive graph structure.
 
 ---
 
 
 ## ⚙️ Key Responsibilities
 
-1. Named Entity Recognition (NER) using LLM/NLP
+1. Graph schema design
 
-2. Relation extraction between mission components
+2. Node & edge creation
 
-3. Triple generation (Subject–Predicate–Object)
+3. Graph database integration (Neo4j)
 
-4. Domain-specific ontology mapping (ISRO missions)
+4. Incremental graph updates
+
+5. Graph querying and indexing
 
 ---
 
 
-## 🔍 Example Knowledge Triples
+## 🌐 Graph Representation
+
+Nodes:
 ~~~
-Chandrayaan-3 → launched_by → LVM3
+Satellites
 
-PSLV → developed_by → ISRO
+Rockets
 
-Aditya-L1 → mission_type → Solar Mission
+Missions
 
+Scientists
+~~~
+
+Edges:
+~~~
+launched_by
+
+developed_by
+
+related_to
+
+next_mission
 ~~~
 
 ---
@@ -49,28 +65,27 @@ Aditya-L1 → mission_type → Solar Mission
 
 ## 📊 Input
 
-Preprocessed mission data
+Knowledge Triples from Extraction Engine
 
 ---
 
 
 ## 📤 Output
 
-1. Extracted Entities
+1. ISRO Knowledge Graph Database
 
-2. Relationship Triples (KG-ready format)
+2. Queryable Graph Structure
 
 ---
 
 
 ## 🛠️ Tech Stack
 
-1. SpaCy / Transformers
+1. Neo4j / GraphDB
 
-2. LangChain
+2. NetworkX
 
-3. NLP Pipelines
+3. Cypher Query Language
 
-4. LLM-based Extraction
-
+4. Python
 
