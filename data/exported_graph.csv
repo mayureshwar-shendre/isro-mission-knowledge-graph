@@ -1,0 +1,1258 @@
+0,1,2
+GSAT-15,USED_FOR,"Communication, Navigation"
+GSAT-15,LAUNCH_ON,2015-11-11
+GSAT-15,ORBIT_TYPE,GEO
+GSAT-15,LAUNCHED_BY,Ariane-5 VA-227
+GSAT-15,used_for,"Communication, Navigation"
+GSAT-15,launch_on,2015-11-11
+GSAT-15,orbit_type,GEO
+GSAT-15,launched_by,Ariane-5 VA-227
+GSLV-D5/GSAT-14,ROCKET_FAMILY,GSLV
+GSLV-D5/GSAT-14,rocket_family,GSLV
+CMS-01,USED_FOR,Communication
+CMS-01,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+CMS-01,LAUNCHED_BY,PSLV-C50/CMS-01
+CMS-01,LAUNCH_ON,2020-12-17
+CMS-01,used_for,Communication
+CMS-01,orbit_type,GSO (Geosynchronous Orbit)
+CMS-01,launched_by,PSLV-C50/CMS-01
+CMS-01,launch_on,2020-12-17
+CARTOSAT-2B,USED_FOR,Earth Observation
+CARTOSAT-2B,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-2B,LAUNCH_ON,2010-07-12
+CARTOSAT-2B,LAUNCHED_BY,PSLV-C15/CARTOSAT-2B
+CARTOSAT-2B,used_for,Earth Observation
+CARTOSAT-2B,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-2B,launch_on,2010-07-12
+CARTOSAT-2B,launched_by,PSLV-C15/CARTOSAT-2B
+INSAT-3B,USED_FOR,Communication
+INSAT-3B,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-3B,LAUNCH_ON,2000-03-22
+INSAT-3B,LAUNCHED_BY,Ariane-5G
+INSAT-3B,used_for,Communication
+INSAT-3B,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-3B,launch_on,2000-03-22
+INSAT-3B,launched_by,Ariane-5G
+Rohini Satellite RS-D2,USED_FOR,Earth Observation
+Rohini Satellite RS-D2,ORBIT_TYPE,LEO (Low Earth Orbit)
+Rohini Satellite RS-D2,LAUNCH_ON,1983-04-17
+Rohini Satellite RS-D2,LAUNCHED_BY,SLV-3
+Rohini Satellite RS-D2,used_for,Earth Observation
+Rohini Satellite RS-D2,orbit_type,LEO (Low Earth Orbit)
+Rohini Satellite RS-D2,launch_on,1983-04-17
+Rohini Satellite RS-D2,launched_by,SLV-3
+IRS-P2,USED_FOR,Earth Observation
+IRS-P2,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+IRS-P2,LAUNCH_ON,1994-10-15
+IRS-P2,LAUNCHED_BY,PSLV-D2
+IRS-P2,used_for,Earth Observation
+IRS-P2,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+IRS-P2,launch_on,1994-10-15
+IRS-P2,launched_by,PSLV-D2
+INSAT-3E,USED_FOR,Communication
+INSAT-3E,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-3E,LAUNCHED_BY,Ariane5-V162
+INSAT-3E,LAUNCH_ON,2003-09-28
+INSAT-3E,used_for,Communication
+INSAT-3E,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-3E,launched_by,Ariane5-V162
+INSAT-3E,launch_on,2003-09-28
+RISAT-1,USED_FOR,Earth Observation
+RISAT-1,LAUNCH_ON,2012-04-26
+RISAT-1,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+RISAT-1,LAUNCHED_BY,PSLV-C19/RISAT-1
+RISAT-1,used_for,Earth Observation
+RISAT-1,launch_on,2012-04-26
+RISAT-1,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+RISAT-1,launched_by,PSLV-C19/RISAT-1
+GSAT-7,USED_FOR,Communication
+GSAT-7,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-7,LAUNCHED_BY,Ariane-5 VA-215
+GSAT-7,LAUNCH_ON,2013-08-30
+GSAT-7,used_for,Communication
+GSAT-7,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-7,launched_by,Ariane-5 VA-215
+GSAT-7,launch_on,2013-08-30
+Ariane-5 VA-215,ROCKET_FAMILY,Ariane
+Ariane-5 VA-215,rocket_family,Ariane
+GSAT-19,USED_FOR,Communication
+GSAT-19,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-19,LAUNCHED_BY,GSLV Mk III-D1/GSAT-19 Mission
+GSAT-19,LAUNCH_ON,2017-06-05
+GSAT-19,used_for,Communication
+GSAT-19,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-19,launched_by,GSLV Mk III-D1/GSAT-19 Mission
+GSAT-19,launch_on,2017-06-05
+GSLV Mk III-D1/GSAT-19 Mission,ROCKET_FAMILY,GSLV Mk III
+GSLV Mk III-D1/GSAT-19 Mission,rocket_family,GSLV Mk III
+INSAT-3C,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-3C,LAUNCHED_BY,Ariane5-V147
+INSAT-3C,USED_FOR,"Climate & Environment, Communication"
+INSAT-3C,LAUNCH_ON,2002-01-24
+INSAT-3C,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-3C,launched_by,Ariane5-V147
+INSAT-3C,used_for,"Climate & Environment, Communication"
+INSAT-3C,launch_on,2002-01-24
+Ariane5-V147,ROCKET_FAMILY,Ariane5
+Ariane5-V147,rocket_family,Ariane5
+GSAT-16,USED_FOR,Communication
+GSAT-16,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-16,LAUNCH_ON,2014-12-07
+GSAT-16,LAUNCHED_BY,Ariane-5 VA-221
+GSAT-16,used_for,Communication
+GSAT-16,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-16,launch_on,2014-12-07
+GSAT-16,launched_by,Ariane-5 VA-221
+EOS-03,USED_FOR,Earth Observation
+EOS-03,ORBIT_TYPE,GTO (Geosynchronous Transfer Orbit)
+EOS-03,LAUNCH_ON,2021-08-12
+EOS-03,LAUNCHED_BY,GSLV-F10 / EOS-03 Mission
+EOS-03,used_for,Earth Observation
+EOS-03,orbit_type,GTO (Geosynchronous Transfer Orbit)
+EOS-03,launch_on,2021-08-12
+EOS-03,launched_by,GSLV-F10 / EOS-03 Mission
+RISAT-2,USED_FOR,Earth Observation
+RISAT-2,LAUNCH_ON,2009-04-20
+RISAT-2,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+RISAT-2,LAUNCHED_BY,PSLV-C12 / RISAT-2
+RISAT-2,used_for,Earth Observation
+RISAT-2,launch_on,2009-04-20
+RISAT-2,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+RISAT-2,launched_by,PSLV-C12 / RISAT-2
+RESOURCESAT-2,USED_FOR,Earth Observation
+RESOURCESAT-2,LAUNCH_ON,2011-04-20
+RESOURCESAT-2,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+RESOURCESAT-2,LAUNCHED_BY,PSLV-C16/RESOURCESAT-2
+RESOURCESAT-2,used_for,Earth Observation
+RESOURCESAT-2,launch_on,2011-04-20
+RESOURCESAT-2,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+RESOURCESAT-2,launched_by,PSLV-C16/RESOURCESAT-2
+CARTOSAT-2 Series Satellite,USED_FOR,Earth Observation
+CARTOSAT-2 Series Satellite,LAUNCHED_BY,PSLV-C34 / CARTOSAT-2 Series Satellite
+CARTOSAT-2 Series Satellite,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-2 Series Satellite,LAUNCH_ON,2016-06-22
+CARTOSAT-2 Series Satellite,used_for,Earth Observation
+CARTOSAT-2 Series Satellite,launched_by,PSLV-C34 / CARTOSAT-2 Series Satellite
+CARTOSAT-2 Series Satellite,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-2 Series Satellite,launch_on,2016-06-22
+PSLV-C34 / CARTOSAT-2 Series Satellite,ROCKET_FAMILY,PSLV
+PSLV-C34 / CARTOSAT-2 Series Satellite,rocket_family,PSLV
+SSLV-D2/EOS-07 Mission,ROCKET_FAMILY,SSLV
+SSLV-D2/EOS-07 Mission,rocket_family,SSLV
+GSAT-31,USED_FOR,Communication
+GSAT-31,ORBIT_TYPE,GTO (Geosynchronous Transfer Orbit)
+GSAT-31,LAUNCHED_BY,Ariane-5 VA-247
+GSAT-31,LAUNCH_ON,2019-02-06
+GSAT-31,used_for,Communication
+GSAT-31,orbit_type,GTO (Geosynchronous Transfer Orbit)
+GSAT-31,launched_by,Ariane-5 VA-247
+GSAT-31,launch_on,2019-02-06
+NVS-01,LAUNCH_ON,2023-05-29
+NVS-01,USED_FOR,Navigation
+NVS-01,ORBIT_TYPE,Unknown
+NVS-01,LAUNCHED_BY,GSLV-F12/NVS-01 Mission
+NVS-01,launch_on,2023-05-29
+NVS-01,used_for,Navigation
+NVS-01,orbit_type,Unknown
+NVS-01,launched_by,GSLV-F12/NVS-01 Mission
+SARAL,USED_FOR,"Climate & Environment, Earth Observation"
+SARAL,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+SARAL,LAUNCH_ON,2013-02-25
+SARAL,LAUNCHED_BY,PSLV-C20/SARAL
+SARAL,used_for,"Climate & Environment, Earth Observation"
+SARAL,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+SARAL,launch_on,2013-02-25
+SARAL,launched_by,PSLV-C20/SARAL
+INSAT-4C,USED_FOR,Communication
+INSAT-4C,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-4C,LAUNCH_ON,2006-07-10
+INSAT-4C,LAUNCHED_BY,GSLV-F02 / INSAT-4C
+INSAT-4C,used_for,Communication
+INSAT-4C,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-4C,launch_on,2006-07-10
+INSAT-4C,launched_by,GSLV-F02 / INSAT-4C
+IRNSS-1H,USED_FOR,Navigation
+IRNSS-1H,ORBIT_TYPE,Unknown
+IRNSS-1H,LAUNCHED_BY,PSLV-C39/IRNSS-1H Mission
+IRNSS-1H,LAUNCH_ON,2017-08-31
+IRNSS-1H,used_for,Navigation
+IRNSS-1H,orbit_type,Unknown
+IRNSS-1H,launched_by,PSLV-C39/IRNSS-1H Mission
+IRNSS-1H,launch_on,2017-08-31
+Ariane5-V162,ROCKET_FAMILY,Ariane5
+Ariane5-V162,rocket_family,Ariane5
+KALPANA-1,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+KALPANA-1,LAUNCH_ON,2002-09-12
+KALPANA-1,LAUNCHED_BY,PSLV-C4 /KALPANA-1
+KALPANA-1,USED_FOR,"Climate & Environment, Communication"
+KALPANA-1,orbit_type,GSO (Geosynchronous Orbit)
+KALPANA-1,launch_on,2002-09-12
+KALPANA-1,launched_by,PSLV-C4 /KALPANA-1
+KALPANA-1,used_for,"Climate & Environment, Communication"
+Thybolt,USED_FOR,Earth Observation
+Thybolt,LAUNCHED_BY,PSLV-C54/EOS-06 Mission
+Thybolt,LAUNCH_ON,2022-11-26
+Thybolt,ORBIT_TYPE,Unknown
+Thybolt,used_for,Earth Observation
+Thybolt,launched_by,PSLV-C54/EOS-06 Mission
+Thybolt,launch_on,2022-11-26
+Thybolt,orbit_type,Unknown
+PSLV-C54/EOS-06 Mission,ROCKET_FAMILY,PSLV
+PSLV-C54/EOS-06 Mission,rocket_family,PSLV
+EOS-07,USED_FOR,Earth Observation
+EOS-07,LAUNCHED_BY,SSLV-D2/EOS-07 Mission
+EOS-07,ORBIT_TYPE,Unknown
+EOS-07,LAUNCH_ON,2023-02-10
+EOS-07,used_for,Earth Observation
+EOS-07,launched_by,SSLV-D2/EOS-07 Mission
+EOS-07,orbit_type,Unknown
+EOS-07,launch_on,2023-02-10
+EOS-01,ORBIT_TYPE,LEO (Low Earth Orbit)
+EOS-01,LAUNCH_ON,2020-11-07
+EOS-01,LAUNCHED_BY,PSLV-C49/EOS-01
+EOS-01,USED_FOR,"Disaster Management System, Earth Observation"
+EOS-01,orbit_type,LEO (Low Earth Orbit)
+EOS-01,launch_on,2020-11-07
+EOS-01,launched_by,PSLV-C49/EOS-01
+EOS-01,used_for,"Disaster Management System, Earth Observation"
+INSAT-4A,USED_FOR,Communication
+INSAT-4A,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-4A,LAUNCH_ON,2005-12-22
+INSAT-4A,LAUNCHED_BY,Ariane5-V169
+INSAT-4A,used_for,Communication
+INSAT-4A,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-4A,launch_on,2005-12-22
+INSAT-4A,launched_by,Ariane5-V169
+INSAT-4CR,USED_FOR,Communication
+INSAT-4CR,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-4CR,LAUNCHED_BY,GSLV-F04 / INSAT-4CR
+INSAT-4CR,LAUNCH_ON,2007-09-02
+INSAT-4CR,used_for,Communication
+INSAT-4CR,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-4CR,launched_by,GSLV-F04 / INSAT-4CR
+INSAT-4CR,launch_on,2007-09-02
+GSLV-F04 / INSAT-4CR,ROCKET_FAMILY,GSLV
+GSLV-F04 / INSAT-4CR,rocket_family,GSLV
+IRNSS-1A,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+IRNSS-1A,USED_FOR,Navigation
+IRNSS-1A,LAUNCHED_BY,PSLV-C22/IRNSS-1A
+IRNSS-1A,LAUNCH_ON,2013-07-01
+IRNSS-1A,orbit_type,GSO (Geosynchronous Orbit)
+IRNSS-1A,used_for,Navigation
+IRNSS-1A,launched_by,PSLV-C22/IRNSS-1A
+IRNSS-1A,launch_on,2013-07-01
+PSLV-C22/IRNSS-1A,ROCKET_FAMILY,PSLV
+PSLV-C22/IRNSS-1A,rocket_family,PSLV
+Microsat-R,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+Microsat-R,USED_FOR,Unknown
+Microsat-R,LAUNCHED_BY,PSLV-C44
+Microsat-R,LAUNCH_ON,2019-01-24
+Microsat-R,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+Microsat-R,used_for,Unknown
+Microsat-R,launched_by,PSLV-C44
+Microsat-R,launch_on,2019-01-24
+IRNSS-1C,USED_FOR,Navigation
+IRNSS-1C,LAUNCH_ON,2014-10-16
+IRNSS-1C,ORBIT_TYPE,GEO
+IRNSS-1C,LAUNCHED_BY,PSLV-C26/IRNSS-1C
+IRNSS-1C,used_for,Navigation
+IRNSS-1C,launch_on,2014-10-16
+IRNSS-1C,orbit_type,GEO
+IRNSS-1C,launched_by,PSLV-C26/IRNSS-1C
+"SPADEX, POEM-4",ORBIT_TYPE,LEO (Low Earth Orbit)
+"SPADEX, POEM-4",LAUNCHED_BY,"PSLV-C60,SPADEX,POEM-4 Mission"
+"SPADEX, POEM-4",USED_FOR,In-Orbit Docking Experiment
+"SPADEX, POEM-4",LAUNCH_ON,2025-12-30
+"SPADEX, POEM-4",orbit_type,LEO (Low Earth Orbit)
+"SPADEX, POEM-4",launched_by,"PSLV-C60,SPADEX,POEM-4 Mission"
+"SPADEX, POEM-4",used_for,In-Orbit Docking Experiment
+"SPADEX, POEM-4",launch_on,2025-12-30
+"PSLV-C60,SPADEX,POEM-4 Mission",ROCKET_FAMILY,PSLV
+"PSLV-C60,SPADEX,POEM-4 Mission",rocket_family,PSLV
+IRS-1C,USED_FOR,Earth Observation
+IRS-1C,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+IRS-1C,LAUNCHED_BY,Molniya
+IRS-1C,LAUNCH_ON,1995-12-28
+IRS-1C,used_for,Earth Observation
+IRS-1C,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+IRS-1C,launched_by,Molniya
+IRS-1C,launch_on,1995-12-28
+Molniya,ROCKET_FAMILY,Molniya
+Molniya,rocket_family,Molniya
+GSAT-12,USED_FOR,Communication
+GSAT-12,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-12,LAUNCH_ON,2011-07-15
+GSAT-12,LAUNCHED_BY,PSLV-C17/GSAT-12
+GSAT-12,used_for,Communication
+GSAT-12,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-12,launch_on,2011-07-15
+GSAT-12,launched_by,PSLV-C17/GSAT-12
+PSLV-C39/IRNSS-1H Mission,ROCKET_FAMILY,PSLV
+PSLV-C39/IRNSS-1H Mission,rocket_family,PSLV
+IRNSS-1D,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+IRNSS-1D,USED_FOR,Navigation
+IRNSS-1D,LAUNCHED_BY,PSLV-C27/IRNSS-1D
+IRNSS-1D,LAUNCH_ON,2015-03-28
+IRNSS-1D,orbit_type,GSO (Geosynchronous Orbit)
+IRNSS-1D,used_for,Navigation
+IRNSS-1D,launched_by,PSLV-C27/IRNSS-1D
+IRNSS-1D,launch_on,2015-03-28
+IRNSS-1F,USED_FOR,Navigation
+IRNSS-1F,ORBIT_TYPE,GEO
+IRNSS-1F,LAUNCH_ON,2016-03-10
+IRNSS-1F,LAUNCHED_BY,PSLV-C32/IRNSS-1F
+IRNSS-1F,used_for,Navigation
+IRNSS-1F,orbit_type,GEO
+IRNSS-1F,launch_on,2016-03-10
+IRNSS-1F,launched_by,PSLV-C32/IRNSS-1F
+CARTOSAT  2A,USED_FOR,Earth Observation
+CARTOSAT  2A,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT  2A,LAUNCH_ON,2008-04-28
+CARTOSAT  2A,LAUNCHED_BY,PSLV-C9 / CARTOSAT  2A
+CARTOSAT  2A,used_for,Earth Observation
+CARTOSAT  2A,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT  2A,launch_on,2008-04-28
+CARTOSAT  2A,launched_by,PSLV-C9 / CARTOSAT  2A
+Vostok,ROCKET_FAMILY,Vostok
+Vostok,rocket_family,Vostok
+INSAT-4B,USED_FOR,Communication
+INSAT-4B,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-4B,LAUNCHED_BY,Ariane5
+INSAT-4B,LAUNCH_ON,2007-03-12
+INSAT-4B,used_for,Communication
+INSAT-4B,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-4B,launched_by,Ariane5
+INSAT-4B,launch_on,2007-03-12
+YOUTHSAT,LAUNCH_ON,2011-04-20
+YOUTHSAT,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+YOUTHSAT,USED_FOR,Student Satellite
+YOUTHSAT,LAUNCHED_BY,PSLV-C16/RESOURCESAT-2
+YOUTHSAT,launch_on,2011-04-20
+YOUTHSAT,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+YOUTHSAT,used_for,Student Satellite
+YOUTHSAT,launched_by,PSLV-C16/RESOURCESAT-2
+Crew module Atmospheric Re-entry Experiment (CARE),ORBIT_TYPE,Unknown
+Crew module Atmospheric Re-entry Experiment (CARE),USED_FOR,Experimental
+Crew module Atmospheric Re-entry Experiment (CARE),LAUNCHED_BY,LVM-3/CARE Mission
+Crew module Atmospheric Re-entry Experiment (CARE),LAUNCH_ON,2014-12-18
+Crew module Atmospheric Re-entry Experiment (CARE),orbit_type,Unknown
+Crew module Atmospheric Re-entry Experiment (CARE),used_for,Experimental
+Crew module Atmospheric Re-entry Experiment (CARE),launched_by,LVM-3/CARE Mission
+Crew module Atmospheric Re-entry Experiment (CARE),launch_on,2014-12-18
+INS-1C,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+INS-1C,USED_FOR,Experimental
+INS-1C,LAUNCHED_BY,PSLV-C40/Cartosat-2 Series Satellite Mission
+INS-1C,LAUNCH_ON,2018-01-12
+INS-1C,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+INS-1C,used_for,Experimental
+INS-1C,launched_by,PSLV-C40/Cartosat-2 Series Satellite Mission
+INS-1C,launch_on,2018-01-12
+PSLV-C40/Cartosat-2 Series Satellite Mission,ROCKET_FAMILY,PSLV
+PSLV-C40/Cartosat-2 Series Satellite Mission,rocket_family,PSLV
+Oceansat(IRS-P4),USED_FOR,Earth Observation
+Oceansat(IRS-P4),ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+Oceansat(IRS-P4),LAUNCH_ON,1999-05-26
+Oceansat(IRS-P4),LAUNCHED_BY,PSLV-C2/IRS-P4
+Oceansat(IRS-P4),used_for,Earth Observation
+Oceansat(IRS-P4),orbit_type,SSPO (Sun Synchronous Polar Orbit)
+Oceansat(IRS-P4),launch_on,1999-05-26
+Oceansat(IRS-P4),launched_by,PSLV-C2/IRS-P4
+INSAT-2C,USED_FOR,Communication
+INSAT-2C,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-2C,LAUNCHED_BY,Ariane-44L H10-3
+INSAT-2C,LAUNCH_ON,1995-12-07
+INSAT-2C,used_for,Communication
+INSAT-2C,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-2C,launched_by,Ariane-44L H10-3
+INSAT-2C,launch_on,1995-12-07
+EOS-04,USED_FOR,Earth Observation
+EOS-04,ORBIT_TYPE,Unknown
+EOS-04,LAUNCHED_BY,PSLV-C52/EOS-04 Mission
+EOS-04,LAUNCH_ON,2022-02-14
+EOS-04,used_for,Earth Observation
+EOS-04,orbit_type,Unknown
+EOS-04,launched_by,PSLV-C52/EOS-04 Mission
+EOS-04,launch_on,2022-02-14
+Anand,USED_FOR,Earth Observation
+Anand,LAUNCHED_BY,PSLV-C54/EOS-06 Mission
+Anand,LAUNCH_ON,2022-11-26
+Anand,ORBIT_TYPE,Unknown
+Anand,used_for,Earth Observation
+Anand,launched_by,PSLV-C54/EOS-06 Mission
+Anand,launch_on,2022-11-26
+Anand,orbit_type,Unknown
+IRS-1D,USED_FOR,Earth Observation
+IRS-1D,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+IRS-1D,LAUNCH_ON,1997-09-29
+IRS-1D,LAUNCHED_BY,PSLV-C1 / IRS-1D
+IRS-1D,used_for,Earth Observation
+IRS-1D,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+IRS-1D,launch_on,1997-09-29
+IRS-1D,launched_by,PSLV-C1 / IRS-1D
+GSAT-1 7,USED_FOR,Communication
+GSAT-1 7,ORBIT_TYPE,GTO (Geosynchronous Transfer Orbit)
+GSAT-1 7,LAUNCH_ON,2017-06-29
+GSAT-1 7,LAUNCHED_BY,Ariane-5 VA-238
+GSAT-1 7,used_for,Communication
+GSAT-1 7,orbit_type,GTO (Geosynchronous Transfer Orbit)
+GSAT-1 7,launch_on,2017-06-29
+GSAT-1 7,launched_by,Ariane-5 VA-238
+GSAT-29,USED_FOR,Communication
+GSAT-29,ORBIT_TYPE,GTO (Geosynchronous Transfer Orbit)
+GSAT-29,LAUNCHED_BY,GSLV Mk III-D2 / GSAT-29 Mission
+GSAT-29,LAUNCH_ON,2018-11-14
+GSAT-29,used_for,Communication
+GSAT-29,orbit_type,GTO (Geosynchronous Transfer Orbit)
+GSAT-29,launched_by,GSLV Mk III-D2 / GSAT-29 Mission
+GSAT-29,launch_on,2018-11-14
+GSLV Mk III-D2 / GSAT-29 Mission,ROCKET_FAMILY,GSLV Mk III
+GSLV Mk III-D2 / GSAT-29 Mission,rocket_family,GSLV Mk III
+GSAT-1,USED_FOR,Communication
+GSAT-1,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-1,LAUNCH_ON,2001-04-18
+GSAT-1,LAUNCHED_BY,GSLV-D1 / GSAT-1
+GSAT-1,used_for,Communication
+GSAT-1,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-1,launch_on,2001-04-18
+GSAT-1,launched_by,GSLV-D1 / GSAT-1
+SROSS-C,ORBIT_TYPE,Unknown
+SROSS-C,USED_FOR,Experimental
+SROSS-C,LAUNCHED_BY,ASLV-D3
+SROSS-C,LAUNCH_ON,1992-05-20
+SROSS-C,orbit_type,Unknown
+SROSS-C,used_for,Experimental
+SROSS-C,launched_by,ASLV-D3
+SROSS-C,launch_on,1992-05-20
+PSLV-C46 Mission,ROCKET_FAMILY,PSLV
+PSLV-C46 Mission,rocket_family,PSLV
+PSLV-C4 /KALPANA-1,ROCKET_FAMILY,PSLV
+PSLV-C4 /KALPANA-1,rocket_family,PSLV
+GSAT-5P,USED_FOR,Communication
+GSAT-5P,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-5P,LAUNCH_ON,2010-12-25
+GSAT-5P,LAUNCHED_BY,GSLV-F06 / GSAT-5P
+GSAT-5P,used_for,Communication
+GSAT-5P,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-5P,launch_on,2010-12-25
+GSAT-5P,launched_by,GSLV-F06 / GSAT-5P
+PSLV-C25,ROCKET_FAMILY,PSLV
+PSLV-C25,rocket_family,PSLV
+GSAT-9,USED_FOR,Communication
+GSAT-9,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-9,LAUNCH_ON,2017-05-05
+GSAT-9,LAUNCHED_BY,GSLV-F09 / GSAT-9
+GSAT-9,used_for,Communication
+GSAT-9,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-9,launch_on,2017-05-05
+GSAT-9,launched_by,GSLV-F09 / GSAT-9
+HysIS,USED_FOR,Earth Observation
+HysIS,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+HysIS,LAUNCH_ON,2018-11-29
+HysIS,LAUNCHED_BY,PSLV-C43 / HysIS Mission
+HysIS,used_for,Earth Observation
+HysIS,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+HysIS,launch_on,2018-11-29
+HysIS,launched_by,PSLV-C43 / HysIS Mission
+Ariane5,ROCKET_FAMILY,Ariane5
+Ariane5,rocket_family,Ariane5
+Chandrayaan-3,ORBIT_TYPE,Lunar
+Chandrayaan-3,USED_FOR,Planetary Observation
+Chandrayaan-3,LAUNCHED_BY,LVM3 M4 / Chandrayaan-3 Mission
+Chandrayaan-3,LAUNCH_ON,2023-07-14
+Chandrayaan-3,orbit_type,Lunar
+Chandrayaan-3,used_for,Planetary Observation
+Chandrayaan-3,launched_by,LVM3 M4 / Chandrayaan-3 Mission
+Chandrayaan-3,launch_on,2023-07-14
+PSLV-C43 / HysIS Mission,ROCKET_FAMILY,PSLV
+PSLV-C43 / HysIS Mission,rocket_family,PSLV
+Rohini Satellite RS-D1,USED_FOR,Earth Observation
+Rohini Satellite RS-D1,ORBIT_TYPE,LEO (Low Earth Orbit)
+Rohini Satellite RS-D1,LAUNCHED_BY,SLV-3D1
+Rohini Satellite RS-D1,LAUNCH_ON,1981-05-31
+Rohini Satellite RS-D1,used_for,Earth Observation
+Rohini Satellite RS-D1,orbit_type,LEO (Low Earth Orbit)
+Rohini Satellite RS-D1,launched_by,SLV-3D1
+Rohini Satellite RS-D1,launch_on,1981-05-31
+CARTOSAT-1,USED_FOR,Earth Observation
+CARTOSAT-1,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-1,LAUNCH_ON,2005-05-05
+CARTOSAT-1,LAUNCHED_BY,PSLV-C6/CARTOSAT-1/HAMSAT
+CARTOSAT-1,used_for,Earth Observation
+CARTOSAT-1,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-1,launch_on,2005-05-05
+CARTOSAT-1,launched_by,PSLV-C6/CARTOSAT-1/HAMSAT
+PSLV-C47 / Cartosat-3 Mission,ROCKET_FAMILY,PSLV
+PSLV-C47 / Cartosat-3 Mission,rocket_family,PSLV
+SRE-1,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+SRE-1,USED_FOR,Experimental
+SRE-1,LAUNCH_ON,2007-01-10
+SRE-1,LAUNCHED_BY,PSLV-C7 / CARTOSAT-2 / SRE-1
+SRE-1,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+SRE-1,used_for,Experimental
+SRE-1,launch_on,2007-01-10
+SRE-1,launched_by,PSLV-C7 / CARTOSAT-2 / SRE-1
+APPLE,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+APPLE,LAUNCHED_BY,Ariane -1(V-3)
+APPLE,USED_FOR,"Communication, Experimental"
+APPLE,LAUNCH_ON,1981-06-19
+APPLE,orbit_type,GSO (Geosynchronous Orbit)
+APPLE,launched_by,Ariane -1(V-3)
+APPLE,used_for,"Communication, Experimental"
+APPLE,launch_on,1981-06-19
+INSAT-2D,USED_FOR,Communication
+INSAT-2D,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-2D,LAUNCHED_BY,Ariane-44L H10-3
+INSAT-2D,LAUNCH_ON,1997-06-04
+INSAT-2D,used_for,Communication
+INSAT-2D,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-2D,launched_by,Ariane-44L H10-3
+INSAT-2D,launch_on,1997-06-04
+Ariane-44L H10-3,ROCKET_FAMILY,Ariane
+Ariane-44L H10-3,rocket_family,Ariane
+Chandrayaan2,ORBIT_TYPE,Lunar
+Chandrayaan2,USED_FOR,Planetary Observation
+Chandrayaan2,LAUNCH_ON,2019-07-22
+Chandrayaan2,LAUNCHED_BY,GSLV-Mk III - M1 / Chandrayaan-2 Mission
+Chandrayaan2,orbit_type,Lunar
+Chandrayaan2,used_for,Planetary Observation
+Chandrayaan2,launch_on,2019-07-22
+Chandrayaan2,launched_by,GSLV-Mk III - M1 / Chandrayaan-2 Mission
+GSAT-7A,USED_FOR,Communication
+GSAT-7A,ORBIT_TYPE,Unknown
+GSAT-7A,LAUNCH_ON,2018-12-19
+GSAT-7A,LAUNCHED_BY,GSLV-F11 / GSAT-7A Mission
+GSAT-7A,used_for,Communication
+GSAT-7A,orbit_type,Unknown
+GSAT-7A,launch_on,2018-12-19
+GSAT-7A,launched_by,GSLV-F11 / GSAT-7A Mission
+SLV-3D1,ROCKET_FAMILY,SLV
+SLV-3D1,rocket_family,SLV
+PSLV-C6/CARTOSAT-1/HAMSAT,ROCKET_FAMILY,PSLV
+PSLV-C6/CARTOSAT-1/HAMSAT,rocket_family,PSLV
+IMS-1,USED_FOR,Earth Observation
+IMS-1,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+IMS-1,LAUNCH_ON,2008-04-28
+IMS-1,LAUNCHED_BY,PSLV-C9 / CARTOSAT  2A
+IMS-1,used_for,Earth Observation
+IMS-1,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+IMS-1,launch_on,2008-04-28
+IMS-1,launched_by,PSLV-C9 / CARTOSAT  2A
+CARTOSAT-2,USED_FOR,Earth Observation
+CARTOSAT-2,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-2,LAUNCH_ON,2007-01-10
+CARTOSAT-2,LAUNCHED_BY,PSLV-C7 / CARTOSAT-2 / SRE-1
+CARTOSAT-2,used_for,Earth Observation
+CARTOSAT-2,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+CARTOSAT-2,launch_on,2007-01-10
+CARTOSAT-2,launched_by,PSLV-C7 / CARTOSAT-2 / SRE-1
+Rohini Satellite RS-1,ORBIT_TYPE,Unknown
+Rohini Satellite RS-1,USED_FOR,Unknown
+Rohini Satellite RS-1,LAUNCH_ON,1980-07-18
+Rohini Satellite RS-1,LAUNCHED_BY,SLV-3E2
+Rohini Satellite RS-1,orbit_type,Unknown
+Rohini Satellite RS-1,used_for,Unknown
+Rohini Satellite RS-1,launch_on,1980-07-18
+Rohini Satellite RS-1,launched_by,SLV-3E2
+PSLV-C61/EOS-09 Mission,ROCKET_FAMILY,PSLV
+PSLV-C61/EOS-09 Mission,rocket_family,PSLV
+GSAT-11 Mission,USED_FOR,Communication
+GSAT-11 Mission,ORBIT_TYPE,GTO (Geosynchronous Transfer Orbit)
+GSAT-11 Mission,LAUNCHED_BY,Ariane-5 VA-246
+GSAT-11 Mission,LAUNCH_ON,2018-12-05
+GSAT-11 Mission,used_for,Communication
+GSAT-11 Mission,orbit_type,GTO (Geosynchronous Transfer Orbit)
+GSAT-11 Mission,launched_by,Ariane-5 VA-246
+GSAT-11 Mission,launch_on,2018-12-05
+Ariane-5 VA-246,ROCKET_FAMILY,Ariane
+Ariane-5 VA-246,rocket_family,Ariane
+Bhaskara-I,ORBIT_TYPE,LEO (Low Earth Orbit)
+Bhaskara-I,USED_FOR,"Earth Observation, Experimental"
+Bhaskara-I,LAUNCHED_BY,C-1Intercosmos
+Bhaskara-I,LAUNCH_ON,1979-06-07
+Bhaskara-I,orbit_type,LEO (Low Earth Orbit)
+Bhaskara-I,used_for,"Earth Observation, Experimental"
+Bhaskara-I,launched_by,C-1Intercosmos
+Bhaskara-I,launch_on,1979-06-07
+PSLV-C49/EOS-01,ROCKET_FAMILY,PSLV
+PSLV-C49/EOS-01,rocket_family,PSLV
+PSLV-C7 / CARTOSAT-2 / SRE-1,ROCKET_FAMILY,PSLV
+PSLV-C7 / CARTOSAT-2 / SRE-1,rocket_family,PSLV
+Ariane-5 VA-251,ROCKET_FAMILY,Ariane
+Ariane-5 VA-251,rocket_family,Ariane
+PSLV-C48/RISAT-2BR1,ROCKET_FAMILY,PSLV
+PSLV-C48/RISAT-2BR1,rocket_family,PSLV
+PSLV-C52/EOS-04 Mission,ROCKET_FAMILY,PSLV
+PSLV-C52/EOS-04 Mission,rocket_family,PSLV
+EMISAT,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+EMISAT,USED_FOR,Unknown
+EMISAT,LAUNCH_ON,2019-04-01
+EMISAT,LAUNCHED_BY,PSLV-C45/EMISAT MISSION
+EMISAT,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+EMISAT,used_for,Unknown
+EMISAT,launch_on,2019-04-01
+EMISAT,launched_by,PSLV-C45/EMISAT MISSION
+GSAT-24,USED_FOR,Communication
+GSAT-24,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-24,LAUNCH_ON,2022-06-23
+GSAT-24,LAUNCHED_BY,Ariane-V(VS257)
+GSAT-24,used_for,Communication
+GSAT-24,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-24,launch_on,2022-06-23
+GSAT-24,launched_by,Ariane-V(VS257)
+GSAT-10,USED_FOR,"Communication, Navigation"
+GSAT-10,ORBIT_TYPE,GEO
+GSAT-10,LAUNCH_ON,2012-09-29
+GSAT-10,LAUNCHED_BY,Ariane-5 VA-209
+GSAT-10,used_for,"Communication, Navigation"
+GSAT-10,orbit_type,GEO
+GSAT-10,launch_on,2012-09-29
+GSAT-10,launched_by,Ariane-5 VA-209
+INS-2TD,ORBIT_TYPE,Unknown
+INS-2TD,USED_FOR,Experimental
+INS-2TD,LAUNCHED_BY,PSLV-C52/EOS-04 Mission
+INS-2TD,LAUNCH_ON,2022-02-14
+INS-2TD,orbit_type,Unknown
+INS-2TD,used_for,Experimental
+INS-2TD,launched_by,PSLV-C52/EOS-04 Mission
+INS-2TD,launch_on,2022-02-14
+GSLV-D6,ROCKET_FAMILY,GSLV
+GSLV-D6,rocket_family,GSLV
+PSLV-D1,ROCKET_FAMILY,PSLV
+PSLV-D1,rocket_family,PSLV
+GSLV-F02 / INSAT-4C,ROCKET_FAMILY,GSLV
+GSLV-F02 / INSAT-4C,rocket_family,GSLV
+ASLV-D2,ROCKET_FAMILY,ASLV
+ASLV-D2,rocket_family,ASLV
+GSAT-6,USED_FOR,Communication
+GSAT-6,ORBIT_TYPE,GTO (Geosynchronous Transfer Orbit)
+GSAT-6,LAUNCHED_BY,GSLV-D6
+GSAT-6,LAUNCH_ON,2015-08-27
+GSAT-6,used_for,Communication
+GSAT-6,orbit_type,GTO (Geosynchronous Transfer Orbit)
+GSAT-6,launched_by,GSLV-D6
+GSAT-6,launch_on,2015-08-27
+Mars Orbiter Mission Spacecraft,LAUNCHED_BY,PSLV-C25
+Mars Orbiter Mission Spacecraft,USED_FOR,Planetary Observation
+Mars Orbiter Mission Spacecraft,ORBIT_TYPE,Martian
+Mars Orbiter Mission Spacecraft,LAUNCH_ON,2013-11-05
+Mars Orbiter Mission Spacecraft,launched_by,PSLV-C25
+Mars Orbiter Mission Spacecraft,used_for,Planetary Observation
+Mars Orbiter Mission Spacecraft,orbit_type,Martian
+Mars Orbiter Mission Spacecraft,launch_on,2013-11-05
+GSAT-18,USED_FOR,Communication
+GSAT-18,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-18,LAUNCHED_BY,Ariane-5 VA-231
+GSAT-18,LAUNCH_ON,2016-10-06
+GSAT-18,used_for,Communication
+GSAT-18,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-18,launched_by,Ariane-5 VA-231
+GSAT-18,launch_on,2016-10-06
+LVM-3/CARE Mission,ROCKET_FAMILY,LVM
+LVM-3/CARE Mission,rocket_family,LVM
+Bhaskara-II,ORBIT_TYPE,LEO (Low Earth Orbit)
+Bhaskara-II,USED_FOR,"Earth Observation, Experimental"
+Bhaskara-II,LAUNCH_ON,1981-11-20
+Bhaskara-II,LAUNCHED_BY,C-1 Intercosmos
+Bhaskara-II,orbit_type,LEO (Low Earth Orbit)
+Bhaskara-II,used_for,"Earth Observation, Experimental"
+Bhaskara-II,launch_on,1981-11-20
+Bhaskara-II,launched_by,C-1 Intercosmos
+Ariane-42P H10-3,ROCKET_FAMILY,Ariane
+Ariane-42P H10-3,rocket_family,Ariane
+GSAT-14,LAUNCHED_BY,GSLV-D5/GSAT-14
+GSAT-14,USED_FOR,Communication
+GSAT-14,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-14,LAUNCH_ON,2014-01-05
+GSAT-14,launched_by,GSLV-D5/GSAT-14
+GSAT-14,used_for,Communication
+GSAT-14,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-14,launch_on,2014-01-05
+IRS-1A,USED_FOR,Earth Observation
+IRS-1A,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+IRS-1A,LAUNCHED_BY,Vostok
+IRS-1A,LAUNCH_ON,1988-03-17
+IRS-1A,used_for,Earth Observation
+IRS-1A,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+IRS-1A,launched_by,Vostok
+IRS-1A,launch_on,1988-03-17
+RESOURCESAT-2A,USED_FOR,Earth Observation
+RESOURCESAT-2A,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+RESOURCESAT-2A,LAUNCHED_BY,PSLV-C36 / RESOURCESAT-2A
+RESOURCESAT-2A,LAUNCH_ON,2016-12-07
+RESOURCESAT-2A,used_for,Earth Observation
+RESOURCESAT-2A,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+RESOURCESAT-2A,launched_by,PSLV-C36 / RESOURCESAT-2A
+RESOURCESAT-2A,launch_on,2016-12-07
+PSLV-C36 / RESOURCESAT-2A,ROCKET_FAMILY,PSLV
+PSLV-C36 / RESOURCESAT-2A,rocket_family,PSLV
+IRS-P6 / RESOURCESAT-1,USED_FOR,Earth Observation
+IRS-P6 / RESOURCESAT-1,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+IRS-P6 / RESOURCESAT-1,LAUNCHED_BY,PSLV-C5 /RESOURCESAT-1
+IRS-P6 / RESOURCESAT-1,LAUNCH_ON,2003-10-17
+IRS-P6 / RESOURCESAT-1,used_for,Earth Observation
+IRS-P6 / RESOURCESAT-1,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+IRS-P6 / RESOURCESAT-1,launched_by,PSLV-C5 /RESOURCESAT-1
+IRS-P6 / RESOURCESAT-1,launch_on,2003-10-17
+PSLV-C5 /RESOURCESAT-1,ROCKET_FAMILY,PSLV
+PSLV-C5 /RESOURCESAT-1,rocket_family,PSLV
+ASLV-D3,ROCKET_FAMILY,ASLV
+ASLV-D3,rocket_family,ASLV
+Ariane-5 VA-231,ROCKET_FAMILY,Ariane
+Ariane-5 VA-231,rocket_family,Ariane
+IRNSS-1I,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+IRNSS-1I,USED_FOR,Navigation
+IRNSS-1I,LAUNCH_ON,2018-04-12
+IRNSS-1I,LAUNCHED_BY,PSLV-C41/IRNSS-1I
+IRNSS-1I,orbit_type,GSO (Geosynchronous Orbit)
+IRNSS-1I,used_for,Navigation
+IRNSS-1I,launch_on,2018-04-12
+IRNSS-1I,launched_by,PSLV-C41/IRNSS-1I
+PSLV-C27/IRNSS-1D,ROCKET_FAMILY,PSLV
+PSLV-C27/IRNSS-1D,rocket_family,PSLV
+INS-1A,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+INS-1A,USED_FOR,Experimental
+INS-1A,LAUNCH_ON,2017-02-15
+INS-1A,LAUNCHED_BY,PSLV-C37 / Cartosat -2 Series Satellite
+INS-1A,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+INS-1A,used_for,Experimental
+INS-1A,launch_on,2017-02-15
+INS-1A,launched_by,PSLV-C37 / Cartosat -2 Series Satellite
+Cartosat-3,USED_FOR,Earth Observation
+Cartosat-3,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+Cartosat-3,LAUNCHED_BY,PSLV-C47 / Cartosat-3 Mission
+Cartosat-3,LAUNCH_ON,2019-11-27
+Cartosat-3,used_for,Earth Observation
+Cartosat-3,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+Cartosat-3,launched_by,PSLV-C47 / Cartosat-3 Mission
+Cartosat-3,launch_on,2019-11-27
+INSAT-3D,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-3D,LAUNCHED_BY,Ariane-5 VA-214
+INSAT-3D,USED_FOR,"Climate & Environment, Disaster Management System"
+INSAT-3D,LAUNCH_ON,2013-07-26
+INSAT-3D,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-3D,launched_by,Ariane-5 VA-214
+INSAT-3D,used_for,"Climate & Environment, Disaster Management System"
+INSAT-3D,launch_on,2013-07-26
+Ariane-5 VA-214,ROCKET_FAMILY,Ariane
+Ariane-5 VA-214,rocket_family,Ariane
+Ariane -1(V-3),ROCKET_FAMILY,Ariane 
+Ariane -1(V-3),rocket_family,Ariane 
+INS-1B,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+INS-1B,USED_FOR,Experimental
+INS-1B,LAUNCH_ON,2017-02-15
+INS-1B,LAUNCHED_BY,PSLV-C37 / Cartosat -2 Series Satellite
+INS-1B,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+INS-1B,used_for,Experimental
+INS-1B,launch_on,2017-02-15
+INS-1B,launched_by,PSLV-C37 / Cartosat -2 Series Satellite
+PSLV-C37 / Cartosat -2 Series Satellite,ROCKET_FAMILY,PSLV
+PSLV-C37 / Cartosat -2 Series Satellite,rocket_family,PSLV
+INSAT-1D,USED_FOR,Communication
+INSAT-1D,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-1D,LAUNCH_ON,1990-06-12
+INSAT-1D,LAUNCHED_BY,Delta 4925
+INSAT-1D,used_for,Communication
+INSAT-1D,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-1D,launch_on,1990-06-12
+INSAT-1D,launched_by,Delta 4925
+Proba-3 (ESA),LAUNCH_ON,2024-12-05
+Proba-3 (ESA),USED_FOR,Formation Flying(Technology Demonstration)
+Proba-3 (ESA),LAUNCHED_BY,PSLV-C59/Proba-3 Mission
+Proba-3 (ESA),ORBIT_TYPE,HEO (High Elliptical Orbit)
+Proba-3 (ESA),launch_on,2024-12-05
+Proba-3 (ESA),used_for,Formation Flying(Technology Demonstration)
+Proba-3 (ESA),launched_by,PSLV-C59/Proba-3 Mission
+Proba-3 (ESA),orbit_type,HEO (High Elliptical Orbit)
+GSLV-F08/GSAT-6A Mission,ROCKET_FAMILY,GSLV
+GSLV-F08/GSAT-6A Mission,rocket_family,GSLV
+The Technology Experiment Satellite (TES),USED_FOR,Earth Observation
+The Technology Experiment Satellite (TES),ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+The Technology Experiment Satellite (TES),LAUNCH_ON,2001-10-22
+The Technology Experiment Satellite (TES),LAUNCHED_BY,PSLV-C3 / TES
+The Technology Experiment Satellite (TES),used_for,Earth Observation
+The Technology Experiment Satellite (TES),orbit_type,SSPO (Sun Synchronous Polar Orbit)
+The Technology Experiment Satellite (TES),launch_on,2001-10-22
+The Technology Experiment Satellite (TES),launched_by,PSLV-C3 / TES
+Delta,ROCKET_FAMILY,Delta
+Delta,rocket_family,Delta
+C-1Intercosmos,ROCKET_FAMILY,C
+C-1Intercosmos,rocket_family,C
+GSAT-30,USED_FOR,Communication
+GSAT-30,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-30,LAUNCHED_BY,Ariane-5 VA-251
+GSAT-30,LAUNCH_ON,2020-01-17
+GSAT-30,used_for,Communication
+GSAT-30,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-30,launched_by,Ariane-5 VA-251
+GSAT-30,launch_on,2020-01-17
+SLV-3E1,ROCKET_FAMILY,SLV
+SLV-3E1,rocket_family,SLV
+RISAT-2BR1,ORBIT_TYPE,LEO (Low Earth Orbit)
+RISAT-2BR1,LAUNCHED_BY,PSLV-C48/RISAT-2BR1
+RISAT-2BR1,LAUNCH_ON,2019-12-11
+RISAT-2BR1,USED_FOR,"Disaster Management System, Earth Observation"
+RISAT-2BR1,orbit_type,LEO (Low Earth Orbit)
+RISAT-2BR1,launched_by,PSLV-C48/RISAT-2BR1
+RISAT-2BR1,launch_on,2019-12-11
+RISAT-2BR1,used_for,"Disaster Management System, Earth Observation"
+Astrosat,ORBIT_TYPE,Unknown
+Astrosat,USED_FOR,Space Science
+Astrosat,LAUNCHED_BY,PSLV-C30/AstroSat MISSION
+Astrosat,LAUNCH_ON,2015-09-28
+Astrosat,orbit_type,Unknown
+Astrosat,used_for,Space Science
+Astrosat,launched_by,PSLV-C30/AstroSat MISSION
+Astrosat,launch_on,2015-09-28
+EDUSAT,USED_FOR,Communication
+EDUSAT,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+EDUSAT,LAUNCH_ON,2004-09-20
+EDUSAT,LAUNCHED_BY,GSLV-F01 / EDUSAT (GSAT-3)
+EDUSAT,used_for,Communication
+EDUSAT,orbit_type,GSO (Geosynchronous Orbit)
+EDUSAT,launch_on,2004-09-20
+EDUSAT,launched_by,GSLV-F01 / EDUSAT (GSAT-3)
+Rohini Technology Payload (RTP),USED_FOR,Unknown
+Rohini Technology Payload (RTP),ORBIT_TYPE,Unknown
+Rohini Technology Payload (RTP),LAUNCHED_BY,SLV-3E1
+Rohini Technology Payload (RTP),LAUNCH_ON,1979-08-10
+Rohini Technology Payload (RTP),used_for,Unknown
+Rohini Technology Payload (RTP),orbit_type,Unknown
+Rohini Technology Payload (RTP),launched_by,SLV-3E1
+Rohini Technology Payload (RTP),launch_on,1979-08-10
+GSAT-6A,USED_FOR,Communication
+GSAT-6A,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-6A,LAUNCHED_BY,GSLV-F08/GSAT-6A Mission
+GSAT-6A,LAUNCH_ON,2018-03-29
+GSAT-6A,used_for,Communication
+GSAT-6A,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-6A,launched_by,GSLV-F08/GSAT-6A Mission
+GSAT-6A,launch_on,2018-03-29
+PSLV-C17/GSAT-12,ROCKET_FAMILY,PSLV
+PSLV-C17/GSAT-12,rocket_family,PSLV
+PSLV-C31/IRNSS-1E,ROCKET_FAMILY,PSLV
+PSLV-C31/IRNSS-1E,rocket_family,PSLV
+Megha-Tropiques,USED_FOR,"Climate & Environment, Earth Observation"
+Megha-Tropiques,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+Megha-Tropiques,LAUNCHED_BY,PSLV-C18/Megha-Tropiques
+Megha-Tropiques,LAUNCH_ON,2011-10-12
+Megha-Tropiques,used_for,"Climate & Environment, Earth Observation"
+Megha-Tropiques,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+Megha-Tropiques,launched_by,PSLV-C18/Megha-Tropiques
+Megha-Tropiques,launch_on,2011-10-12
+SROSS-C2,ORBIT_TYPE,Unknown
+SROSS-C2,USED_FOR,Experimental
+SROSS-C2,LAUNCHED_BY,ASLV-D4
+SROSS-C2,LAUNCH_ON,1994-05-04
+SROSS-C2,orbit_type,Unknown
+SROSS-C2,used_for,Experimental
+SROSS-C2,launched_by,ASLV-D4
+SROSS-C2,launch_on,1994-05-04
+INSAT-2A,USED_FOR,Communication
+INSAT-2A,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-2A,LAUNCHED_BY,Ariane-44L H10
+INSAT-2A,LAUNCH_ON,1992-07-10
+INSAT-2A,used_for,Communication
+INSAT-2A,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-2A,launched_by,Ariane-44L H10
+INSAT-2A,launch_on,1992-07-10
+Cartosat-2 Series Satellite,USED_FOR,Earth Observation
+Cartosat-2 Series Satellite,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+Cartosat-2 Series Satellite,LAUNCHED_BY,PSLV-C40/Cartosat-2 Series Satellite Mission
+Cartosat-2 Series Satellite,LAUNCHED_BY,PSLV-C38 / Cartosat-2 Series Satellite
+Cartosat-2 Series Satellite,LAUNCH_ON,2018-01-12
+Cartosat-2 Series Satellite,LAUNCH_ON,2017-06-23
+Cartosat-2 Series Satellite,used_for,Earth Observation
+Cartosat-2 Series Satellite,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+Cartosat-2 Series Satellite,launched_by,PSLV-C40/Cartosat-2 Series Satellite Mission
+Cartosat-2 Series Satellite,launched_by,PSLV-C38 / Cartosat-2 Series Satellite
+Cartosat-2 Series Satellite,launch_on,2018-01-12
+Cartosat-2 Series Satellite,launch_on,2017-06-23
+INSAT-2E,USED_FOR,Communication
+INSAT-2E,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-2E,LAUNCHED_BY,Ariane-42P H10-3
+INSAT-2E,LAUNCH_ON,1999-04-03
+INSAT-2E,used_for,Communication
+INSAT-2E,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-2E,launched_by,Ariane-42P H10-3
+INSAT-2E,launch_on,1999-04-03
+GSAT-2,USED_FOR,Communication
+GSAT-2,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-2,LAUNCH_ON,2003-05-08
+GSAT-2,LAUNCHED_BY,GSLV-D2 / GSAT-2
+GSAT-2,used_for,Communication
+GSAT-2,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-2,launch_on,2003-05-08
+GSAT-2,launched_by,GSLV-D2 / GSAT-2
+PSLV-C33/IRNSS-1G,ROCKET_FAMILY,PSLV
+PSLV-C33/IRNSS-1G,rocket_family,PSLV
+Ariane-5 VA-227,ROCKET_FAMILY,Ariane
+Ariane-5 VA-227,rocket_family,Ariane
+GSLV-F11 / GSAT-7A Mission,ROCKET_FAMILY,GSLV
+GSLV-F11 / GSAT-7A Mission,rocket_family,GSLV
+PSLV-C32/IRNSS-1F,ROCKET_FAMILY,PSLV
+PSLV-C32/IRNSS-1F,rocket_family,PSLV
+NISAR(NASA-ISRO),LAUNCH_ON,2025-07-30
+NISAR(NASA-ISRO),ORBIT_TYPE,SSO (Sun Synchronous Orbit)
+NISAR(NASA-ISRO),LAUNCHED_BY,GSLV-F16/NISAR Mission
+NISAR(NASA-ISRO),USED_FOR,Earth Observation(Radar)
+NISAR(NASA-ISRO),launch_on,2025-07-30
+NISAR(NASA-ISRO),orbit_type,SSO (Sun Synchronous Orbit)
+NISAR(NASA-ISRO),launched_by,GSLV-F16/NISAR Mission
+NISAR(NASA-ISRO),used_for,Earth Observation(Radar)
+SROSS-1,ORBIT_TYPE,Unknown
+SROSS-1,USED_FOR,Experimental
+SROSS-1,LAUNCHED_BY,ASLV-D1
+SROSS-1,LAUNCH_ON,1987-03-24
+SROSS-1,orbit_type,Unknown
+SROSS-1,used_for,Experimental
+SROSS-1,launched_by,ASLV-D1
+SROSS-1,launch_on,1987-03-24
+GSLV-F01 / EDUSAT (GSAT-3),ROCKET_FAMILY,GSLV
+GSLV-F01 / EDUSAT (GSAT-3),rocket_family,GSLV
+PSLV-C38 / Cartosat-2 Series Satellite,ROCKET_FAMILY,PSLV
+PSLV-C38 / Cartosat-2 Series Satellite,rocket_family,PSLV
+PSLV-C57/Aditya-L1 Mission,ROCKET_FAMILY,PSLV
+PSLV-C57/Aditya-L1 Mission,rocket_family,PSLV
+Chandrayaan-1,ORBIT_TYPE,Lunar
+Chandrayaan-1,USED_FOR,Planetary Observation
+Chandrayaan-1,LAUNCHED_BY,PSLV-C11
+Chandrayaan-1,LAUNCH_ON,2008-10-22
+Chandrayaan-1,orbit_type,Lunar
+Chandrayaan-1,used_for,Planetary Observation
+Chandrayaan-1,launched_by,PSLV-C11
+Chandrayaan-1,launch_on,2008-10-22
+PSLV-C50/CMS-01,ROCKET_FAMILY,PSLV
+PSLV-C50/CMS-01,rocket_family,PSLV
+Oceansat-2,USED_FOR,"Climate & Environment, Earth Observation"
+Oceansat-2,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+Oceansat-2,LAUNCH_ON,2009-09-23
+Oceansat-2,LAUNCHED_BY,PSLV-C14 / OCEANSAT-2
+Oceansat-2,used_for,"Climate & Environment, Earth Observation"
+Oceansat-2,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+Oceansat-2,launch_on,2009-09-23
+Oceansat-2,launched_by,PSLV-C14 / OCEANSAT-2
+IRS-1B,USED_FOR,Earth Observation
+IRS-1B,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+IRS-1B,LAUNCHED_BY,Vostok
+IRS-1B,LAUNCH_ON,1991-08-29
+IRS-1B,used_for,Earth Observation
+IRS-1B,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+IRS-1B,launched_by,Vostok
+IRS-1B,launch_on,1991-08-29
+Ariane-5G,ROCKET_FAMILY,Ariane
+Ariane-5G,rocket_family,Ariane
+PSLV-C9 / CARTOSAT  2A,ROCKET_FAMILY,PSLV
+PSLV-C9 / CARTOSAT  2A,rocket_family,PSLV
+INSAT-1C,USED_FOR,Communication
+INSAT-1C,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-1C,LAUNCHED_BY,Ariane-3
+INSAT-1C,LAUNCH_ON,1988-07-22
+INSAT-1C,used_for,Communication
+INSAT-1C,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-1C,launched_by,Ariane-3
+INSAT-1C,launch_on,1988-07-22
+ASLV-D1,ROCKET_FAMILY,ASLV
+ASLV-D1,rocket_family,ASLV
+GSLV-F12/NVS-01 Mission,ROCKET_FAMILY,GSLV
+GSLV-F12/NVS-01 Mission,rocket_family,GSLV
+GSLV-F09 / GSAT-9,ROCKET_FAMILY,GSLV
+GSLV-F09 / GSAT-9,rocket_family,GSLV
+SROSS-2,ORBIT_TYPE,Unknown
+SROSS-2,USED_FOR,"Earth Observation, Experimental"
+SROSS-2,LAUNCHED_BY,ASLV-D2
+SROSS-2,LAUNCH_ON,1988-07-13
+SROSS-2,orbit_type,Unknown
+SROSS-2,used_for,"Earth Observation, Experimental"
+SROSS-2,launched_by,ASLV-D2
+SROSS-2,launch_on,1988-07-13
+IRNSS-1E,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+IRNSS-1E,USED_FOR,Navigation
+IRNSS-1E,LAUNCHED_BY,PSLV-C31/IRNSS-1E
+IRNSS-1E,LAUNCH_ON,2016-01-20
+IRNSS-1E,orbit_type,GSO (Geosynchronous Orbit)
+IRNSS-1E,used_for,Navigation
+IRNSS-1E,launched_by,PSLV-C31/IRNSS-1E
+IRNSS-1E,launch_on,2016-01-20
+Aryabhata,ORBIT_TYPE,Unknown
+Aryabhata,USED_FOR,Experimental
+Aryabhata,LAUNCHED_BY,C-1 Intercosmos
+Aryabhata,LAUNCH_ON,1975-04-19
+Aryabhata,orbit_type,Unknown
+Aryabhata,used_for,Experimental
+Aryabhata,launched_by,C-1 Intercosmos
+Aryabhata,launch_on,1975-04-19
+C-1 Intercosmos,ROCKET_FAMILY,C
+C-1 Intercosmos,rocket_family,C
+Aditya-L1,ORBIT_TYPE,Lunar
+Aditya-L1,USED_FOR,Planetary Observation
+Aditya-L1,LAUNCHED_BY,PSLV-C57/Aditya-L1 Mission
+Aditya-L1,LAUNCH_ON,2023-09-02
+Aditya-L1,orbit_type,Lunar
+Aditya-L1,used_for,Planetary Observation
+Aditya-L1,launched_by,PSLV-C57/Aditya-L1 Mission
+Aditya-L1,launch_on,2023-09-02
+IRNSS-1G,USED_FOR,Navigation
+IRNSS-1G,ORBIT_TYPE,GEO
+IRNSS-1G,LAUNCHED_BY,PSLV-C33/IRNSS-1G
+IRNSS-1G,LAUNCH_ON,2016-04-28
+IRNSS-1G,used_for,Navigation
+IRNSS-1G,orbit_type,GEO
+IRNSS-1G,launched_by,PSLV-C33/IRNSS-1G
+IRNSS-1G,launch_on,2016-04-28
+HAMSAT,USED_FOR,Communication
+HAMSAT,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+HAMSAT,LAUNCH_ON,2005-05-05
+HAMSAT,LAUNCHED_BY,PSLV-C6/CARTOSAT-1/HAMSAT
+HAMSAT,used_for,Communication
+HAMSAT,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+HAMSAT,launch_on,2005-05-05
+HAMSAT,launched_by,PSLV-C6/CARTOSAT-1/HAMSAT
+INSAT-3A,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-3A,USED_FOR,"Climate & Environment, Communication"
+INSAT-3A,LAUNCH_ON,2003-04-10
+INSAT-3A,LAUNCHED_BY,Ariane5-V160
+INSAT-3A,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-3A,used_for,"Climate & Environment, Communication"
+INSAT-3A,launch_on,2003-04-10
+INSAT-3A,launched_by,Ariane5-V160
+IRS-P3,USED_FOR,Earth Observation
+IRS-P3,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+IRS-P3,LAUNCHED_BY,PSLV-D3 / IRS-P3
+IRS-P3,LAUNCH_ON,1996-03-21
+IRS-P3,used_for,Earth Observation
+IRS-P3,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+IRS-P3,launched_by,PSLV-D3 / IRS-P3
+IRS-P3,launch_on,1996-03-21
+PSLV-D3 / IRS-P3,ROCKET_FAMILY,PSLV
+PSLV-D3 / IRS-P3,rocket_family,PSLV
+INSAT-3DR,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-3DR,LAUNCHED_BY,GSLV-F05 / INSAT-3DR
+INSAT-3DR,USED_FOR,"Climate & Environment, Disaster Management System"
+INSAT-3DR,LAUNCH_ON,2016-09-08
+INSAT-3DR,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-3DR,launched_by,GSLV-F05 / INSAT-3DR
+INSAT-3DR,used_for,"Climate & Environment, Disaster Management System"
+INSAT-3DR,launch_on,2016-09-08
+GSLV-F05 / INSAT-3DR,ROCKET_FAMILY,GSLV
+GSLV-F05 / INSAT-3DR,rocket_family,GSLV
+PSLV-C3 / TES,ROCKET_FAMILY,PSLV
+PSLV-C3 / TES,rocket_family,PSLV
+EOS-09,USED_FOR,Earth Observation
+EOS-09,LAUNCHED_BY,PSLV-C61/EOS-09 Mission
+EOS-09,LAUNCH_ON,2025-05-18
+EOS-09,ORBIT_TYPE,SSO (Sun Synchronous Orbit)
+EOS-09,used_for,Earth Observation
+EOS-09,launched_by,PSLV-C61/EOS-09 Mission
+EOS-09,launch_on,2025-05-18
+EOS-09,orbit_type,SSO (Sun Synchronous Orbit)
+LVM3 M4 / Chandrayaan-3 Mission,ROCKET_FAMILY,LVM3 M4 / Chandrayaan
+LVM3 M4 / Chandrayaan-3 Mission,rocket_family,LVM3 M4 / Chandrayaan
+Ariane-44L H10,ROCKET_FAMILY,Ariane
+Ariane-44L H10,rocket_family,Ariane
+GSLV-D1 / GSAT-1,ROCKET_FAMILY,GSLV
+GSLV-D1 / GSAT-1,rocket_family,GSLV
+Ariane-3,ROCKET_FAMILY,Ariane
+Ariane-3,rocket_family,Ariane
+Ariane5-V169,ROCKET_FAMILY,Ariane5
+Ariane5-V169,rocket_family,Ariane5
+GSAT-4,USED_FOR,Communication
+GSAT-4,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+GSAT-4,LAUNCH_ON,2010-04-15
+GSAT-4,LAUNCHED_BY,GSLV-D3 / GSAT-4
+GSAT-4,used_for,Communication
+GSAT-4,orbit_type,GSO (Geosynchronous Orbit)
+GSAT-4,launch_on,2010-04-15
+GSAT-4,launched_by,GSLV-D3 / GSAT-4
+Ariane-5 VA-247,ROCKET_FAMILY,Ariane
+Ariane-5 VA-247,rocket_family,Ariane
+PSLV-C12 / RISAT-2,ROCKET_FAMILY,PSLV
+PSLV-C12 / RISAT-2,rocket_family,PSLV
+PSLV-C45/EMISAT MISSION,ROCKET_FAMILY,PSLV
+PSLV-C45/EMISAT MISSION,rocket_family,PSLV
+PSLV-C24/IRNSS-1B,ROCKET_FAMILY,PSLV
+PSLV-C24/IRNSS-1B,rocket_family,PSLV
+Delta 4925,ROCKET_FAMILY,Delta 4925
+Delta 4925,rocket_family,Delta 4925
+GSLV-F06 / GSAT-5P,ROCKET_FAMILY,GSLV
+GSLV-F06 / GSAT-5P,rocket_family,GSLV
+Cartosat -2 Series Satellite,USED_FOR,Earth Observation
+Cartosat -2 Series Satellite,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+Cartosat -2 Series Satellite,LAUNCH_ON,2017-02-15
+Cartosat -2 Series Satellite,LAUNCHED_BY,PSLV-C37 / Cartosat -2 Series Satellite
+Cartosat -2 Series Satellite,used_for,Earth Observation
+Cartosat -2 Series Satellite,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+Cartosat -2 Series Satellite,launch_on,2017-02-15
+Cartosat -2 Series Satellite,launched_by,PSLV-C37 / Cartosat -2 Series Satellite
+SCATSAT-1,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+SCATSAT-1,LAUNCHED_BY,PSLV-C35 / SCATSAT-1
+SCATSAT-1,LAUNCH_ON,2016-09-26
+SCATSAT-1,USED_FOR,Climate & Environment
+SCATSAT-1,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+SCATSAT-1,launched_by,PSLV-C35 / SCATSAT-1
+SCATSAT-1,launch_on,2016-09-26
+SCATSAT-1,used_for,Climate & Environment
+PSLV-C35 / SCATSAT-1,ROCKET_FAMILY,PSLV
+PSLV-C35 / SCATSAT-1,rocket_family,PSLV
+PSLV-C11,ROCKET_FAMILY,PSLV
+PSLV-C11,rocket_family,PSLV
+INSAT-2B,USED_FOR,Communication
+INSAT-2B,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-2B,LAUNCHED_BY,Ariane-44L H10+
+INSAT-2B,LAUNCH_ON,1993-07-23
+INSAT-2B,used_for,Communication
+INSAT-2B,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-2B,launched_by,Ariane-44L H10+
+INSAT-2B,launch_on,1993-07-23
+Ariane-44L H10+,ROCKET_FAMILY,Ariane
+Ariane-44L H10+,rocket_family,Ariane
+IRS-1E,USED_FOR,Earth Observation
+IRS-1E,ORBIT_TYPE,LEO (Low Earth Orbit)
+IRS-1E,LAUNCHED_BY,PSLV-D1
+IRS-1E,LAUNCH_ON,1993-09-20
+IRS-1E,used_for,Earth Observation
+IRS-1E,orbit_type,LEO (Low Earth Orbit)
+IRS-1E,launched_by,PSLV-D1
+IRS-1E,launch_on,1993-09-20
+Ariane-5 VA-238,ROCKET_FAMILY,Ariane
+Ariane-5 VA-238,rocket_family,Ariane
+EOS-02,USED_FOR,Earth Observation
+EOS-02,ORBIT_TYPE,Unknown
+EOS-02,LAUNCHED_BY,SSLV-D1/EOS-02 Mission
+EOS-02,LAUNCH_ON,2022-08-07
+EOS-02,used_for,Earth Observation
+EOS-02,orbit_type,Unknown
+EOS-02,launched_by,SSLV-D1/EOS-02 Mission
+EOS-02,launch_on,2022-08-07
+PSLV-C30/AstroSat MISSION,ROCKET_FAMILY,PSLV
+PSLV-C30/AstroSat MISSION,rocket_family,PSLV
+PSLV-C15/CARTOSAT-2B,ROCKET_FAMILY,PSLV
+PSLV-C15/CARTOSAT-2B,rocket_family,PSLV
+Ariane-V(VS257),ROCKET_FAMILY,Ariane
+Ariane-V(VS257),rocket_family,Ariane
+SSLV-D1/EOS-02 Mission,ROCKET_FAMILY,SSLV
+SSLV-D1/EOS-02 Mission,rocket_family,SSLV
+Ariane-5 VA-221,ROCKET_FAMILY,Ariane
+Ariane-5 VA-221,rocket_family,Ariane
+GSLV-Mk III - M1 / Chandrayaan-2 Mission,ROCKET_FAMILY,GSLV
+GSLV-Mk III - M1 / Chandrayaan-2 Mission,rocket_family,GSLV
+PSLV-C59/Proba-3 Mission,ROCKET_FAMILY,PSLV
+PSLV-C59/Proba-3 Mission,rocket_family,PSLV
+ASLV-D4,ROCKET_FAMILY,ASLV
+ASLV-D4,rocket_family,ASLV
+GSLV-F16/NISAR Mission,ROCKET_FAMILY,GSLV
+GSLV-F16/NISAR Mission,rocket_family,GSLV
+EOS-06,USED_FOR,Earth Observation
+EOS-06,LAUNCHED_BY,PSLV-C54/EOS-06 Mission
+EOS-06,LAUNCH_ON,2022-11-26
+EOS-06,ORBIT_TYPE,Unknown
+EOS-06,used_for,Earth Observation
+EOS-06,launched_by,PSLV-C54/EOS-06 Mission
+EOS-06,launch_on,2022-11-26
+EOS-06,orbit_type,Unknown
+GSAT-8,USED_FOR,"Communication, Navigation"
+GSAT-8,ORBIT_TYPE,GEO
+GSAT-8,LAUNCHED_BY,Ariane-5 VA-202
+GSAT-8,LAUNCH_ON,2011-05-21
+GSAT-8,used_for,"Communication, Navigation"
+GSAT-8,orbit_type,GEO
+GSAT-8,launched_by,Ariane-5 VA-202
+GSAT-8,launch_on,2011-05-21
+Microsat,ORBIT_TYPE,SSPO (Sun Synchronous Polar Orbit)
+Microsat,USED_FOR,Experimental
+Microsat,LAUNCHED_BY,PSLV-C40/Cartosat-2 Series Satellite Mission
+Microsat,LAUNCH_ON,2018-01-12
+Microsat,orbit_type,SSPO (Sun Synchronous Polar Orbit)
+Microsat,used_for,Experimental
+Microsat,launched_by,PSLV-C40/Cartosat-2 Series Satellite Mission
+Microsat,launch_on,2018-01-12
+GSLV-F10 / EOS-03 Mission,ROCKET_FAMILY,GSLV
+GSLV-F10 / EOS-03 Mission,rocket_family,GSLV
+PSLV-C26/IRNSS-1C,ROCKET_FAMILY,PSLV
+PSLV-C26/IRNSS-1C,rocket_family,PSLV
+INSAT-1B,USED_FOR,Communication
+INSAT-1B,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-1B,LAUNCHED_BY,Shuttle [PAM-D]
+INSAT-1B,LAUNCH_ON,1983-08-30
+INSAT-1B,used_for,Communication
+INSAT-1B,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-1B,launched_by,Shuttle [PAM-D]
+INSAT-1B,launch_on,1983-08-30
+INS-2B,USED_FOR,Earth Observation
+INS-2B,LAUNCHED_BY,PSLV-C54/EOS-06 Mission
+INS-2B,LAUNCH_ON,2022-11-26
+INS-2B,ORBIT_TYPE,Unknown
+INS-2B,used_for,Earth Observation
+INS-2B,launched_by,PSLV-C54/EOS-06 Mission
+INS-2B,launch_on,2022-11-26
+INS-2B,orbit_type,Unknown
+SLV-3E2,ROCKET_FAMILY,SLV
+SLV-3E2,rocket_family,SLV
+Ariane-5 VA-209,ROCKET_FAMILY,Ariane
+Ariane-5 VA-209,rocket_family,Ariane
+PSLV-C41/IRNSS-1I,ROCKET_FAMILY,PSLV
+PSLV-C41/IRNSS-1I,rocket_family,PSLV
+GSLV-F15/NVS-02 Mission,ROCKET_FAMILY,GSLV
+GSLV-F15/NVS-02 Mission,rocket_family,GSLV
+Shuttle [PAM-D],ROCKET_FAMILY,Shuttle [PAM
+Shuttle [PAM-D],rocket_family,Shuttle [PAM
+PSLV-C2/IRS-P4,ROCKET_FAMILY,PSLV
+PSLV-C2/IRS-P4,rocket_family,PSLV
+RISAT-2B,ORBIT_TYPE,LEO (Low Earth Orbit)
+RISAT-2B,LAUNCHED_BY,PSLV-C46 Mission
+RISAT-2B,USED_FOR,"Disaster Management System, Earth Observation"
+RISAT-2B,LAUNCH_ON,2019-05-22
+RISAT-2B,orbit_type,LEO (Low Earth Orbit)
+RISAT-2B,launched_by,PSLV-C46 Mission
+RISAT-2B,used_for,"Disaster Management System, Earth Observation"
+RISAT-2B,launch_on,2019-05-22
+PSLV-C1 / IRS-1D,ROCKET_FAMILY,PSLV
+PSLV-C1 / IRS-1D,rocket_family,PSLV
+Ariane-5 VA-202,ROCKET_FAMILY,Ariane
+Ariane-5 VA-202,rocket_family,Ariane
+GSLV-D3 / GSAT-4,ROCKET_FAMILY,GSLV
+GSLV-D3 / GSAT-4,rocket_family,GSLV
+PSLV-C44,ROCKET_FAMILY,PSLV
+PSLV-C44,rocket_family,PSLV
+Ariane5-V160,ROCKET_FAMILY,Ariane5
+Ariane5-V160,rocket_family,Ariane5
+PSLV-C18/Megha-Tropiques,ROCKET_FAMILY,PSLV
+PSLV-C18/Megha-Tropiques,rocket_family,PSLV
+SLV-3,ROCKET_FAMILY,SLV
+SLV-3,rocket_family,SLV
+PSLV-D2,ROCKET_FAMILY,PSLV
+PSLV-D2,rocket_family,PSLV
+INSAT-1A,USED_FOR,Communication
+INSAT-1A,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+INSAT-1A,LAUNCHED_BY,Delta
+INSAT-1A,LAUNCH_ON,1982-04-10
+INSAT-1A,used_for,Communication
+INSAT-1A,orbit_type,GSO (Geosynchronous Orbit)
+INSAT-1A,launched_by,Delta
+INSAT-1A,launch_on,1982-04-10
+PSLV-C19/RISAT-1,ROCKET_FAMILY,PSLV
+PSLV-C19/RISAT-1,rocket_family,PSLV
+PSLV-C20/SARAL,ROCKET_FAMILY,PSLV
+PSLV-C20/SARAL,rocket_family,PSLV
+NVS-02(NavIC Series),ORBIT_TYPE,GTO (Geosynchronous Transfer Orbit)
+NVS-02(NavIC Series),USED_FOR,Navigation
+NVS-02(NavIC Series),LAUNCHED_BY,GSLV-F15/NVS-02 Mission
+NVS-02(NavIC Series),LAUNCH_ON,2025-01-29
+NVS-02(NavIC Series),orbit_type,GTO (Geosynchronous Transfer Orbit)
+NVS-02(NavIC Series),used_for,Navigation
+NVS-02(NavIC Series),launched_by,GSLV-F15/NVS-02 Mission
+NVS-02(NavIC Series),launch_on,2025-01-29
+IRNSS-1B,ORBIT_TYPE,GSO (Geosynchronous Orbit)
+IRNSS-1B,USED_FOR,Navigation
+IRNSS-1B,LAUNCHED_BY,PSLV-C24/IRNSS-1B
+IRNSS-1B,LAUNCH_ON,2014-04-04
+IRNSS-1B,orbit_type,GSO (Geosynchronous Orbit)
+IRNSS-1B,used_for,Navigation
+IRNSS-1B,launched_by,PSLV-C24/IRNSS-1B
+IRNSS-1B,launch_on,2014-04-04
+GSLV-D2 / GSAT-2,ROCKET_FAMILY,GSLV
+GSLV-D2 / GSAT-2,rocket_family,GSLV
+PSLV-C16/RESOURCESAT-2,ROCKET_FAMILY,PSLV
+PSLV-C16/RESOURCESAT-2,rocket_family,PSLV
+PSLV-C14 / OCEANSAT-2,ROCKET_FAMILY,PSLV
+PSLV-C14 / OCEANSAT-2,rocket_family,PSLV
+Gaganyaan,launched_by,LVM3

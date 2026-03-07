@@ -1,0 +1,477 @@
+/* ============================================================
+   index.css — ISRO Mission Navigator Global Styles
+   Space-dark theme with orange/blue accent palette
+   ============================================================ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── CSS Custom Properties (Design Tokens) ─────────────────── */
+:root {
+  --space-950: #020409;
+  --space-900: #050c18;
+  --space-800: #0a1628;
+  --space-700: #0f2040;
+  --space-600: #152a55;
+  --isro-orange: #f97316;
+  --isro-orange-dim: rgba(249, 115, 22, 0.15);
+  --isro-blue: #3b82f6;
+  --isro-blue-dim: rgba(59, 130, 246, 0.15);
+  --isro-green: #22c55e;
+  --isro-red: #ef4444;
+  --isro-white: #e2e8f0;
+  --glow-orange: 0 0 15px rgba(249, 115, 22, 0.5);
+  --glow-blue: 0 0 15px rgba(59, 130, 246, 0.4);
+  --border-subtle: rgba(255, 255, 255, 0.07);
+  --border-accent: rgba(249, 115, 22, 0.3);
+}
+
+/* ── Base Reset ─────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Exo 2', sans-serif;
+  background-color: var(--space-950);
+  color: var(--isro-white);
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+
+/* Prevent text selection on UI elements */
+.no-select { user-select: none; }
+
+/* ── Star Field Background ──────────────────────────────────── */
+/* We create three layers of stars using pseudo-elements and CSS
+   box-shadow to avoid loading any images for the background.
+   Each layer has different star sizes and animation speeds to
+   create a convincing parallax depth effect. */
+
+.star-field {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.star-field::before,
+.star-field::after {
+  content: '';
+  position: absolute;
+  inset: -50%;
+  border-radius: 50%;
+}
+
+/* Small, fast-moving stars */
+.stars-1 {
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(1px 1px at 10% 15%, rgba(255,255,255,0.8) 0%, transparent 100%),
+    radial-gradient(1px 1px at 25% 40%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 40% 70%, rgba(255,255,255,0.9) 0%, transparent 100%),
+    radial-gradient(1px 1px at 55% 20%, rgba(255,255,255,0.7) 0%, transparent 100%),
+    radial-gradient(1px 1px at 70% 55%, rgba(255,255,255,0.8) 0%, transparent 100%),
+    radial-gradient(1px 1px at 85% 35%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 15% 80%, rgba(255,255,255,0.7) 0%, transparent 100%),
+    radial-gradient(1px 1px at 92% 75%, rgba(255,255,255,0.9) 0%, transparent 100%),
+    radial-gradient(1px 1px at 33% 90%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(1px 1px at 62% 85%, rgba(255,255,255,0.8) 0%, transparent 100%),
+    radial-gradient(1px 1px at 78% 10%, rgba(255,255,255,0.7) 0%, transparent 100%),
+    radial-gradient(1px 1px at 47% 50%, rgba(255,255,255,0.5) 0%, transparent 100%);
+  animation: stars-drift 120s linear infinite;
+}
+
+/* Medium stars */
+.stars-2 {
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(2px 2px at 20% 30%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(2px 2px at 45% 60%, rgba(200,220,255,0.5) 0%, transparent 100%),
+    radial-gradient(2px 2px at 65% 25%, rgba(255,255,255,0.7) 0%, transparent 100%),
+    radial-gradient(2px 2px at 80% 70%, rgba(255,200,150,0.4) 0%, transparent 100%),
+    radial-gradient(2px 2px at 5% 50%, rgba(255,255,255,0.6) 0%, transparent 100%),
+    radial-gradient(2px 2px at 90% 15%, rgba(200,220,255,0.5) 0%, transparent 100%),
+    radial-gradient(2px 2px at 35% 85%, rgba(255,255,255,0.7) 0%, transparent 100%);
+  animation: stars-drift 200s linear infinite reverse;
+}
+
+/* Bright star-like dots (occasional twinkling) */
+.stars-3 {
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(3px 3px at 15% 45%, rgba(255,220,150,0.6) 0%, transparent 100%),
+    radial-gradient(3px 3px at 75% 20%, rgba(150,200,255,0.5) 0%, transparent 100%),
+    radial-gradient(3px 3px at 50% 75%, rgba(255,255,255,0.7) 0%, transparent 100%);
+  animation: stars-twinkle 4s ease-in-out infinite alternate;
+}
+
+@keyframes stars-drift {
+  from { transform: translateY(0px); }
+  to   { transform: translateY(-100px); }
+}
+
+@keyframes stars-twinkle {
+  from { opacity: 0.4; }
+  to   { opacity: 1; }
+}
+
+/* ── Panel / Card Component ──────────────────────────────────── */
+/* The glass-panel class creates the translucent, frosted-glass
+   card effect seen throughout the dashboard. */
+
+.glass-panel {
+  background: rgba(10, 22, 40, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  position: relative;
+  overflow: hidden;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.glass-panel:hover {
+  border-color: var(--border-accent);
+}
+
+/* Top accent line on panels (the orange glow line at the top edge) */
+.glass-panel::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 10%;
+  right: 10%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--isro-orange), transparent);
+  opacity: 0.6;
+}
+
+/* ── Typography Utilities ────────────────────────────────────── */
+.font-orbitron  { font-family: 'Orbitron', monospace; }
+.font-rajdhani  { font-family: 'Rajdhani', sans-serif; }
+.font-exo       { font-family: 'Exo 2', sans-serif; }
+
+.text-gradient-orange {
+  background: linear-gradient(135deg, #f97316, #fb923c, #fdba74);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.text-gradient-blue {
+  background: linear-gradient(135deg, #3b82f6, #60a5fa, #93c5fd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Glow Effects ────────────────────────────────────────────── */
+.glow-orange { box-shadow: var(--glow-orange); }
+.glow-blue   { box-shadow: var(--glow-blue); }
+
+.text-glow-orange {
+  text-shadow: 0 0 10px rgba(249, 115, 22, 0.8),
+               0 0 20px rgba(249, 115, 22, 0.4);
+}
+
+.text-glow-blue {
+  text-shadow: 0 0 10px rgba(59, 130, 246, 0.8),
+               0 0 20px rgba(59, 130, 246, 0.4);
+}
+
+/* ── Animated Pulse Ring (for rocket nodes in D3 graph) ─────── */
+.pulse-ring {
+  animation: pulse-ring 2s cubic-bezier(0.215, 0.61, 0.355, 1) infinite;
+}
+
+@keyframes pulse-ring {
+  0%   { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(249, 115, 22, 0.7); }
+  70%  { transform: scale(1);    box-shadow: 0 0 0 10px rgba(249, 115, 22, 0); }
+  100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(249, 115, 22, 0); }
+}
+
+/* ── Loading Spinner ─────────────────────────────────────────── */
+.spinner {
+  width: 40px;
+  height: 40px;
+  border: 3px solid rgba(249, 115, 22, 0.2);
+  border-top-color: var(--isro-orange);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ── Orbit Animation (for the logo decoration) ──────────────── */
+.orbit-ring {
+  animation: orbit-rotate 8s linear infinite;
+  transform-origin: center;
+}
+
+@keyframes orbit-rotate {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* ── Custom Scrollbar ────────────────────────────────────────── */
+/* Dark scrollbars match the space theme perfectly */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--space-900); }
+::-webkit-scrollbar-thumb {
+  background: var(--space-600);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--isro-orange); }
+
+/* ── D3.js Graph SVG Styles ─────────────────────────────────── */
+/* These styles control the appearance of nodes and edges
+   in the D3 force-directed graph */
+
+.graph-svg {
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+}
+
+.graph-svg:active { cursor: grabbing; }
+
+/* Node circles */
+.node-circle {
+  stroke-width: 2px;
+  cursor: pointer;
+  transition: r 0.2s ease;
+}
+
+.node-circle:hover {
+  filter: brightness(1.3) drop-shadow(0 0 8px currentColor);
+}
+
+/* Node text labels */
+.node-label {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 11px;
+  fill: rgba(226, 232, 240, 0.9);
+  pointer-events: none;
+  text-anchor: middle;
+}
+
+/* Link lines between nodes */
+.graph-link {
+  stroke-opacity: 0.35;
+  stroke-width: 1.5px;
+}
+
+/* Link label text */
+.link-label {
+  font-family: 'Exo 2', sans-serif;
+  font-size: 9px;
+  fill: rgba(226, 232, 240, 0.5);
+  pointer-events: none;
+}
+
+/* ── Status Badge Utilities ──────────────────────────────────── */
+.badge-success {
+  background: rgba(34, 197, 94, 0.15);
+  border: 1px solid rgba(34, 197, 94, 0.4);
+  color: #22c55e;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.badge-failed {
+  background: rgba(239, 68, 68, 0.15);
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  color: #ef4444;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.badge-ongoing {
+  background: rgba(234, 179, 8, 0.15);
+  border: 1px solid rgba(234, 179, 8, 0.4);
+  color: #eab308;
+  padding: 2px 8px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+/* ── Button Styles ───────────────────────────────────────────── */
+.btn-primary {
+  background: linear-gradient(135deg, #f97316, #ea6c10);
+  color: white;
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  padding: 8px 20px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-primary::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, transparent, rgba(255,255,255,0.1));
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 15px rgba(249, 115, 22, 0.4);
+}
+
+.btn-primary:hover::after { opacity: 1; }
+.btn-primary:active { transform: translateY(0); }
+
+.btn-secondary {
+  background: rgba(59, 130, 246, 0.15);
+  color: #60a5fa;
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 8px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn-secondary:hover {
+  background: rgba(59, 130, 246, 0.25);
+  border-color: rgba(59, 130, 246, 0.6);
+}
+
+/* ── Input Styles ────────────────────────────────────────────── */
+.input-space {
+  background: rgba(5, 12, 24, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--isro-white);
+  font-family: 'Exo 2', sans-serif;
+  font-size: 14px;
+  padding: 10px 14px;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  width: 100%;
+}
+
+.input-space::placeholder { color: rgba(226, 232, 240, 0.35); }
+
+.input-space:focus {
+  border-color: var(--isro-orange);
+  box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.1);
+}
+
+/* ── Panel Section Header ─────────────────────────────────────── */
+.panel-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--border-subtle);
+  font-family: 'Orbitron', monospace;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--isro-orange);
+}
+
+/* ── Stat Card ───────────────────────────────────────────────── */
+.stat-card {
+  background: rgba(15, 32, 64, 0.6);
+  border: 1px solid var(--border-subtle);
+  border-radius: 10px;
+  padding: 16px;
+  text-align: center;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.stat-card::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--isro-orange), transparent);
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+}
+
+.stat-card:hover::after { transform: scaleX(1); }
+.stat-card:hover { border-color: var(--border-accent); }
+
+/* ── Hover Tooltip (for D3 graph nodes) ─────────────────────── */
+.graph-tooltip {
+  position: absolute;
+  background: rgba(5, 12, 24, 0.95);
+  border: 1px solid var(--border-accent);
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 13px;
+  color: var(--isro-white);
+  pointer-events: none;
+  z-index: 100;
+  min-width: 180px;
+  box-shadow: var(--glow-orange);
+}
+
+.graph-tooltip .tooltip-title {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  font-size: 15px;
+  color: var(--isro-orange);
+  margin-bottom: 6px;
+}
+
+/* ── Scrollable list for retrieved triples ───────────────────── */
+.triples-list {
+  max-height: 180px;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+/* ── Answer box typing animation ─────────────────────────────── */
+.typing-cursor::after {
+  content: '|';
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+/* ── Responsive Adjustments ───────────────────────────────────── */
+@media (max-width: 1024px) {
+  .dashboard-grid {
+    grid-template-columns: 1fr !important;
+  }
+}

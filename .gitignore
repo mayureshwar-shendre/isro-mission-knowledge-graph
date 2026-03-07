@@ -1,0 +1,15 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/chroma_db/
+backend/.env          ← contains your secret API keys
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env.production   ← contains your backend URL
+
+# System
+.DS_Store
+Thumbs.db
